@@ -1,0 +1,14 @@
+---
+layout: post
+title: " One giant leap for developers... "
+date: 2005-09-01 09:58:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/09/01/1123.aspx"]
+---
+<!-- more -->
+
+<P>Ran across <A href="http://oracle.promotionexpert.com/SpaceSweepstakes/en/index.jsp?Src=3559501&amp;Act=11">this site</A> a while back - a competition where you can win ipods, dvd's,&nbsp;or a space flight,&nbsp;99&nbsp;km above the earth, just for entering a competition...</P>
+ <P>Whatever will they think of next...?</P> 

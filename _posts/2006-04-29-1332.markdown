@@ -1,0 +1,14 @@
+---
+layout: post
+title: " I love this site... "
+date: 2006-04-29 04:19:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2006/04/29/1332.aspx"]
+---
+<!-- more -->
+
+<P><A href="http://www.overheardintheoffice.com/">Overheard in the office</A> always gives me a chuckle.</P>
+ <P>Especially <A href="http://www.overheardintheoffice.com/archives/001974.html">this one</A>&nbsp;(or maybe I'm just twisted <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>).</P> 

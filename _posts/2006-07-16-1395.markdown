@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Erk... "
+date: 2006-07-16 01:17:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2006/07/16/1395.aspx"]
+---
+<!-- more -->
+
+<P>Not a big fan of london water... This is my cup of tea from the other day, just using normal tap water:</P>
+<figure>
+ <IMG alt="Scummy cup of tea" src="/images/scuminacupoftea.jpg">
+</figure>
+<P>And yes, its a huge cup - is about twice the size of a normal cup <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>

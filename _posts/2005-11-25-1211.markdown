@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Windsor knot... "
+date: 2005-11-25 12:28:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/11/25/1211.aspx"]
+---
+<!-- more -->
+
+<P>Just so i can find it again when&nbsp;I need it:</P>
+ <P><A href="http://www.tie-a-tie.net/windsor.html">How to tie a windsor knot</A>...</P>

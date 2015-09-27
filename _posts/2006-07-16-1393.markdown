@@ -1,0 +1,18 @@
+---
+layout: post
+title: " Hand made ferrari... "
+date: 2006-07-16 01:01:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Generalities"]
+alias: ["/mattsblog/archive/2006/07/16/1393.aspx"]
+---
+<!-- more -->
+
+<P>This is on display round the corner from work...</P>
+<figure>
+<IMG alt="A knitted ferrari" src="/images/knittedferrari.jpg">
+</figure>
+<P>Yes, its a hand-knitted ferrari. Some people have far to much time on their hands...</P>
+<P>More info on&nbsp;<A href="http://www.timesonline.co.uk/article/0,,2-2226456,00.html">The Times</A> website.</P>

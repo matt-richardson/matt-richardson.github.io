@@ -1,0 +1,14 @@
+---
+layout: post
+title: " On Cool Stuff... My very own robot... "
+date: 2004-12-20 17:46:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2004/12/20/215.aspx"]
+---
+<!-- more -->
+
+<P>Just found an <A href="http://www.extremetech.com/article2/0,1558,1742172,00.asp">article</A> about how you get get affordable kit-robots that you can build at home!</P>
+ <P>They are &#8220;capable of speech synthesis, speech recognition, motion sensing, obstacle avoidance, and more&#8221;. Pity it looks like a printer on wheels...</P> 

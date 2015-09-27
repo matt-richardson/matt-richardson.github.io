@@ -1,0 +1,18 @@
+---
+layout: post
+title: " The worshipful company of cooks? "
+date: 2006-03-31 00:14:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2006/03/31/1294.aspx"]
+---
+<!-- more -->
+
+<P>One of the things I like about London is the random bits of strangeness you get.</P>
+ <P>For example, on the side of a van near where I used to live (in Morden), it has this:</P>
+ <figure>
+  <IMG alt="The Worshipful Company Of Cooks" src="/images/worshipfulcompanyofcooks.jpg">
+</figure>
+ <P>The mind boggles. It really does.</P> 

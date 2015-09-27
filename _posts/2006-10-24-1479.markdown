@@ -1,0 +1,18 @@
+---
+layout: post
+title: "
+Maybe parking your car on Brick Lane is a bad idea...
+"
+date: 2006-10-24 11:18:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities", "Photos"]
+alias: ["/mattsblog/archive/2006/10/24/1479.aspx"]
+---
+<!-- more -->
+
+<figure>
+  <IMG alt="Brick Lane car" src="/images/bricklanecarbomb.jpg">
+</figure>
+ <P>No idea what the point is, but its pretty cool...</P>

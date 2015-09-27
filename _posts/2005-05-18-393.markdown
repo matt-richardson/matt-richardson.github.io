@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Finally! A court with some sense! "
+date: 2005-05-18 11:21:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/05/18/393.aspx"]
+---
+<!-- more -->
+
+<P>A <A href="http://www.theregister.co.uk/2005/05/17/hamburg_isp_ruling/">Hamburg court has just ruled</A> that an ISP can't be forced to handover customer data to record companies.</P>
+ <P>Finally, a judge that hasn't given into the recording industry and is upholding existing law.</P>
+ <P>This whole issue (of media companies losing money because of file sharing) is just the same old situation, rehashed. It happened with radio, it happened with cassettes, it happened with the VCR. But courts all around are bowing to pressure from the media industry, who want to be given the equivalent (or more than) police rights.</P>
+ <P>If we go down that road, why dont we outlaw the VCR? Why dont we outlaw computers? Why dont we outlaw cameras? Why dont we outlaw photocopiers too while we're at it?</P>
+ <P>(okay, rant over)</P>

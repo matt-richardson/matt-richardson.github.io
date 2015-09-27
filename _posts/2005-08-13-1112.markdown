@@ -1,0 +1,21 @@
+---
+layout: post
+title: "
+Tech post: Fix: Intermittent HTTP 403 errors with ActiveSync
+"
+date: 2005-08-13 14:10:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/08/13/1112.aspx"]
+---
+<!-- more -->
+
+<P>First of all to my regular reader (okay, readers, there <EM>are</EM> 2 of you, after all) - this is a very techy post, so feel free to just skip over it...</P>
+ <P>A few weeks back, I managed to resolve an issue we were having with intermittent HTTP 403 errors while attempting to remote sync to Exchange 2003.</P>
+ <P>We started off all peachy. Then we enabled forms-based authentication, with SSL, to get some slightly better security on OWA. This lead to us getting consistent HTTP 403 errors when attempting to sync. <A href="http://support.microsoft.com/default.aspx?scid=kb;en-us;817379">KBarticle 817379 - &#8220;Exchange ActiveSync and Outlook Mobile Access errors occur when SSL or forms-based authentication is required for Exchange Server 2003&#8221;</A> told us how to fix that.</P>
+ <P>That allowed us to synchronise (synchronize to you Yanks) remotely most of the time. Only, randomly, it seemed to pop up a 403 error saying that my account didn't have permission to sync, even though I'd successfully synced 5&nbsp;minutes previously, and could often sync successfully 5 minutes later. Other times, it would just prevent me from syncing for hours (kinda annoying when you're trying to sync via gprs in some random foreign country...).</P>
+ <P>After a long and drawn out process with&nbsp;a Microsoft tech support guy (thanks Wen Sun!), we managed to resolve the issue. Turns out, in step 14 of method 2 in the <A href="http://support.microsoft.com/default.aspx?scid=kb;en-us;817379">kb article</A> above, you need to add&nbsp;all ip addresses of the server. It seems that its not fixed what ip address it uses when it goes in (apparently there's a bit of bouncing around to various locations, so its not as&nbsp;logical as it sounds at first), so it can come from any of the servers ip addresses. If you've only included one of the ip addresses, it sometimes comes from that ip, and therefore works, and sometimes comes from other ip's, and therefore fails.</P>
+ <P>So, hopefully that makes sense, and helps other people. I would've loved to have been able to get back in contact with the guy that emailed me with the same issue, but alas, his email isn't valid any more (So, if you're out there Ross Minney - give me a yell!)</P>
+ <P><EM>Edit [02/05/2006] - added a link to the article to clarify based on Shen Li's comment.</EM></P>

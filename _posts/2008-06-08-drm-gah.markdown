@@ -1,0 +1,22 @@
+---
+layout: post
+title: " DRM. Gah. "
+date: 2008-06-08 06:54:15 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/archive/2008/06/07/drm-gah.aspx"]
+---
+<!-- more -->
+
+<p>Just ordered a pizza, and sat down to watch 2001: A Space Odyssey on HD-DVD (detailed version: the dvd in my laptop, and watching on my tv via hdmi cable).</p>
+<p>Then just got a message saying:</p>
+<figure>
+    <a href="/images/image_2.png">
+      <img title="image" height="139" alt="image" src="/images/image_thumb.png" width="442" border="0">
+  </a>
+</figure>
+<p>So, there I am trying to watch a legitimate rented dvd (lovefilm.com is great btw!), and the DRM prevents me. </p>
+<p>Gah. Why is downloading movies wrong again? At least I can watch them that way.</p>
+<p>Okay, rant over.</p>

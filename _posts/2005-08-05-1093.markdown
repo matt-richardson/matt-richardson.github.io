@@ -1,0 +1,18 @@
+---
+layout: post
+title: " Just in case you wanted to know... "
+date: 2005-08-05 12:28:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/08/05/1093.aspx"]
+---
+<!-- more -->
+
+<P>... <A href="http://ned.ucam.org/~sdh31/misc/destroy.html">how to destroy the earth</A>.</P>
+ <P>I mean, really. Properly. It lists all&nbsp;sorts of technically and scientifically accurate methods of destroying the earth. From being sucked into a microscopic black hole, to it getting hurled into the sun to it being gobbled up by stranglets (whatever they are) - its all listed, along with how feasible each method is.</P>
+ <P>It even gives you some general geocide strategy tips to help out in your planning.</P>
+ <P>There's even a &#8220;current earth destruction status&#8221;, from the &#8220;international earth-destruction advisory board&#8221;, which helpfully tells us:</P>
+ <P><IMG alt="Current Earth-Destruction Status" src="http://ned.ucam.org/~sdh31/misc/geocide/current.png"> </P>
+ <P>So, anyway, go read the site. Even if you aren't interested in destroying the earth - its a good laugh.</P>

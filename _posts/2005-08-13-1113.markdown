@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Now this is cool... "
+date: 2005-08-13 14:22:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/08/13/1113.aspx"]
+---
+<!-- more -->
+
+<P>Is it a boat, or what???</P>
+ <P>Check the <A href="http://blog.danbartels.com/archive/2005/06/24/751.aspx">Hydro-Foam</A> - very cool. I'd want one, but I know it would only sit on the shelf and gather dust....</P>

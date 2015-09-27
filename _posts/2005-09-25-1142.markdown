@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Odd... "
+date: 2005-09-25 06:41:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/09/25/1142.aspx"]
+---
+<!-- more -->
+
+<P>Just watched an advert on tv, and it was advertising a magazine for kids about the human body. One of the 'sample' things was &#8220;why is my brain wrinkly&#8221;.</P>
+ <P>So, doing a <A href="http://www.google.com">google</A> <A href="http://www.google.com/search?hl=en&q=why+is+my+brain+wrinkly">search on this</A> (who doesn't want to know why their brain is wrinkly?), i came across <A href="http://radar.spacebar.org/f/a/weblog/comment/1/411">this site</A> - good for a laugh...</P>
+ <P>(btw, apparently its because &#8220;the cortical folding makes the brain more efficient, because it can increase the surface area of the brain and the amount of neurons within it&#8221; [from <A href="http://www.theanswerbank.co.uk/Body_and_Soul/Question144117.html">theanswerbank</A>] See? You even learn stuff on this blog... <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>) .</P>

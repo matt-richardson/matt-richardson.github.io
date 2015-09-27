@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Billiant... "
+date: 2005-06-02 00:06:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/06/02/435.aspx"]
+---
+<!-- more -->
+
+<A href="http://www.frozenreality.co.uk/comic/bunny/index.php?id=271">This</A> is absolutely brilliant. Do not view while drinking coffee...

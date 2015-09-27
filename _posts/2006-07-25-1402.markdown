@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Email to txt.... "
+date: 2006-07-25 11:06:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2006/07/25/1402.aspx"]
+---
+<!-- more -->
+
+<P>Just managed to setup the T-Mobile email to txt service... I'm really not sure how useful it is, but if you so desire, you can send a txt via&nbsp;email to me at <A href="mailto:xxx@t-mobile.uk.net">xxx@t-mobile.uk.net</A>... Suprisingly, the xxx is my phone number... I'm assuming you've got it.You dont? Well, you're obviously not special enough...</P>
+ <P>Maybe it'd be more useful for automated tasks or something... Oh well, I'll figure something out <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

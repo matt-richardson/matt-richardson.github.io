@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Hmmm... "
+date: 2006-04-06 02:03:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2006/04/06/1297.aspx"]
+---
+<!-- more -->
+
+<P>Just spoke to DHL to ask them why my latest parcel hasn't been delievered.</P>
+ <P>Apparently, my area is a no-go area. Their drivers kept getting mugged.</P>
+ <P>They'll deliver to Baghdad, but not to Canning Town... Crap...</P>

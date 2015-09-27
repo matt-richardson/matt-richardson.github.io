@@ -1,0 +1,42 @@
+---
+layout: post
+title: " *Shock* *Horror* I got me an iPod Shuffle! "
+date: 2005-04-02 15:07:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Software"]
+alias: ["/mattsblog/archive/2005/04/02/345.aspx"]
+---
+<!-- more -->
+
+<P>Went out to a team lunch the other day, to celebrate the fact that we released <A href="http://www.mergermarket.com/dealscope2/dealscope.asp?npid=700&amp;">dealscope</A>&nbsp;onto <A href="http://www.mergermarket.com/">mergermarket</A>, and apparently, everyone liked it lots and lots, both internally and externally. So, to thank us for this, the boss/company gave us each a 512MB <A href="http://www.apple.com/ipodshuffle/">iPod Shuffle</A>. Bonus! </P>
+ <P>Warning. The next little bit is the techy part, so if you dont care about techy stuff, skip over it to the important bit (the bit near the bottom).</P>
+ <P>I was under the impression that these were pretty crappy devices, and installing the iTunes software really reinforced that idea:</P>
+ <UL>
+ <LI>I had to put in the devices serial number 
+ <LI>I&nbsp;had to provide registration information 
+ <LI>I had to register the ipod with them 
+ <LI>It reinstalled quicktime, which&nbsp;was already on the computer 
+ <LI>It put icons for quick time and itunes in quicklaunch without asking 
+ <LI>It loaded quicktime in the tasktray, without asking 
+ <LI>It wanted to reboot after installing</LI></UL>
+ <P>And loading iTunes didn't help either:</P>
+ <UL>
+ <LI>Its outright confusing to use. 
+ <LI>For ages, I couldn't figure out how to sync my ipod shuffle 
+ <LI>It asked if it should find files on my computer -&nbsp;I said yes, and it promptly did... nothing. 
+ <LI>Selecting is odd - hold down shift, use down arrow to select files, then hit up, cos you selected one too many - and it extends the selection from the top 
+ <LI>Click on a heading, and your selection disappears 
+ <LI>Random little arrow icons *everywhere* (3 times per song), that you have no idea what they do, until you click them, and suddenly find yourself on the apple website... 
+ <LI>Throws an icon in my task tray, without asking 
+ <LI>Registers to startup with the computer without asking</LI></UL>
+ <P>But, once I managed to figure out how to use it,&nbsp;I discovered that:</P>
+ <OL>
+ <LI>I didn't need to use iTunes with it (uninstall - check!) 
+ <LI>I <STRIKE>could</STRIKE> might be able to use Windows Media Player (much more user friendly interface) 
+ <LI>It works as a usb flash drive 
+ <LI>Its rechargable via usb 
+ <LI>It *doesn't* force you to put a random selection of music on the ipod (like i thought it did) 
+ <LI>It *doesn't* force you to listen to the music in a random order (like i thought it did)</LI></OL>
+ <P>So, all in all, its&nbsp;waaay better than I expected it to be. But, then again, being given&nbsp;one as a gift is&nbsp;A Good Thing<SUP>TM</SUP> <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>

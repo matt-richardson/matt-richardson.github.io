@@ -1,0 +1,21 @@
+---
+layout: post
+title: " Don't ask… "
+date: 2009-03-15 01:32:50 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/archive/2009/03/14/don-t-ask.aspx"]
+---
+<!-- more -->
+
+<p>For a Christmas present at the end of last year, I was given a penguin (promptly named “Bob”), which came with the opportunity to name a star<sup><font size="1">[1]</font></sup>… So, really, it didn’t take much thought to decide what to call it – almost goes without saying: “Bob”. And, I've even got the certificate to prove it:</p>
+<figure>
+    <a href="/images/bobthestar_449F2578.png">
+      <img title="bob the star" border="0" alt="bob the star" src="/images/bobthestar_thumb_72F49726.png" width="480" height="371">
+  </a>
+</figure>
+<p>(for some reason, they call the Southern Cross the “Crux”, who knows why)</p>
+<p>Hmmm… Wonder if i can get the mining rights…</p>
+<p><sup><font size="1">[1]</font></sup> Yes, I know its <a href="http://www.starregistry.com/faq.cfm#">not real</a>, but hey, who cares…</p>

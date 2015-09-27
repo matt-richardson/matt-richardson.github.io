@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Why i like .net... "
+date: 2006-09-09 02:00:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2006/09/09/1432.aspx"]
+---
+<!-- more -->
+
+<P>A little na&#239;ve, but still a great story: <A href="http://ricksegal.typepad.com/pmv/2006/07/how_to_make_a_c.html">How to make a corporate butt pucker</A>.</P>
+ <P>That said, even if it takes 10 times as long, still damn good.</P>
+ <P>Oh, how I want to be doing ASP.NET rather than using technology over a decade old... <IMG alt=:( class="emoticon" src="/images/emotions/emotion-6.gif" border=0></P>

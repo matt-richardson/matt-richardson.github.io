@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Online crash analysis... "
+date: 2005-06-13 05:26:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/06/13/580.aspx"]
+---
+<!-- more -->
+
+<P>You know those little error messages you get when a program crashes, and you get the option to send the information to Microsoft?</P>
+ <P>The ones that you ignore all the time, cos you dont really know what they mean?</P>
+ <P>Well, I found <A href="http://feeds.feedburner.com/EdBott-WindowsandOfficeExpertise?m=351">a good description of why you <STRONG>should</STRONG> send the crash information to Microsoft</A>. Go check it out. And next time you get one of those error messages, send it in!</P>

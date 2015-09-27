@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Yay! It *wasn't* my fault... "
+date: 2006-08-01 06:26:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/08/01/1410.aspx"]
+---
+<!-- more -->
+
+<P>Send the main bits of&nbsp;my new computer back to the supplier, and it turns out there was a fault with one of the items. So, it wasn't me! I'm not incompetent! (well, not completely, at least)...</P>
+<figure>
+   <IMG alt="Faulty case for the new computer..." src="/images/newcomputerfault.jpg">
+</figure>
+ <P>Just have to wait until the new bits arrive now... </P>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Hear, Hear! "
+date: 2005-07-13 02:13:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2005/07/13/1076.aspx"]
+---
+<!-- more -->
+
+<P>Go read: "<A href="http://www.lnreview.co.uk/news/005167.php">A Letter To The Terrorists, From London</A>".</P>

@@ -1,0 +1,26 @@
+---
+layout: post
+title: " Platform 9 3/4 "
+date: 2006-10-06 04:55:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2006/10/06/1461.aspx"]
+---
+<!-- more -->
+
+<P>Just before I left Melbourne, back in 2004, I had a bit of a family dinner, just to say bye to everyone.</P>
+ <P>One of my younger cousins (Georgia, I think), said I had to take a photo of Platform 9 <SUP>3/4</SUP> at Kings Cross Station, as in the Harry Potter books and movies.</P>
+ <P>So, a little late, but here it is:</P>
+ <figure>
+  <A href="/images/IMG_4118.jpg">
+    <IMG alt="Platform 9 3/4 at Kings Cross Station" src="/images/IMG_4118_small.jpg" border=0>
+  </A>
+</figure>
+<figure>
+  <A href="/images/IMG_4122.jpg" alt="Nearly through!">
+    <IMG src="/images/IMG_4122_small.jpg" border=0>
+  </A>
+</figure>
+ <P>And yes, I felt like an idiot posing for that one... <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Bad... "
+date: 2006-06-12 07:59:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2006/06/12/1370.aspx"]
+---
+<!-- more -->
+
+<P>Saw this out the front of a caf&#233; in New Zealand (finally getting around to sorting out my photos...):</P>
+<figure>
+  <IMG alt="Eat a prune, start a movement" src="/images/eataprunestartamovement.jpg">
+</figure>

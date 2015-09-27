@@ -1,0 +1,37 @@
+---
+layout: post
+title: " Random thoughts of an interviewee "
+date: 2005-02-10 14:46:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/02/10/289.aspx"]
+---
+<!-- more -->
+
+<P>Random thoughts on the way to an interview:</P>
+ <UL>
+ <LI>Nervous, but not really. I know I can do what they want me to, but its just a case of convincing them that I can.</LI>
+ <LI>Wish my resume had some more pure dev roles on it. Last proper role (infosys) wasn't so good for a resume filler.</LI>
+ <LI>Just need to get a role that I can say 'did lots of analysis and dev stuff with .net'. That'd make getting another contract easier.</LI>
+ <LI>This is only a 2 month contract. Would be better if it was longer.</LI>
+ <LI>If I get it, not sure whether to accept it or not. I've had lots of promising phone calls this week, but this is the first interview I've had in a while. So, do I hang about, waiting for something better, or what?</LI>
+ <LI>I s'pose, I just answered my own question - I can&#8217;t hang around waiting for something better all the time. I've got a hang of how to do the whole contracting roles now, so it'll be much easier next time.</LI>
+ <LI>Also, this role is one where it may be extended anyway, so its a moot point.</LI>
+ <LI>I could be asking all these questions a bit prematurely though. Haven't had the interview yet. But I s'pose I have to consider the questionanyway, seeing they want someone to start tomorrow. I s'pose I'll just see how it goes. </LI>
+ <LI>I wonder how they're going to take it when I tell them that I can&#8217;t be there on Monday (I'll be in rotterdam)</LI>
+ <LI>Hmmm... I wonder how I can improve my skills in vb.net to fare better in technical interviews?&nbsp;</LI>
+ <LI>Hmmm... Wonder if it'd be easier to just rob a bank or something, and travel round. I win all ways then. I get the money I need, I don&#8217;t have to work, and I get to travel for six months or so. Sweet!</LI>
+ <LI>10 minutes till interview. Hmmm... Maybe some dutch courage would have helped here...</LI>
+ <LI>The problem is, I think, I can do it, I just have trouble convincing people of this fact...</LI>
+ <LI>Hmmm... Time to go to the interview I think.</LI></UL>
+ <P>Random thoughts after an interview:</P>
+ <UL>
+ <LI>Think I did fairly well.</LI>
+ <LI>Wasn't super technical, but the level they asked at was a good level for me to answer at. Wasn't too technical - no specific detailed questions, just high level stuff.</LI>
+ <LI>Think i managed to convince them i knew what i was talking about, and the history&nbsp;I had was suited to what they were doing.</LI>
+ <LI>Odd thing was that i got a phone call from another agent telling me about a role with the same company, same technology, same length of time, but apparently different contact at the company. Not sure whats going on. agents going to try and find out, and get back to me...</LI></UL>
+ <P></P>
+ 
+ <P>EDIT: found out at the end of the day that I didn't get the contract. Apparently, there wasn't any negative feedback, but the other candidate was a slightly better fit for what they wanted. Not necessarily a bad thing, cos it means that I can now have one of the longer contracts <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>. Hopefully.</P>

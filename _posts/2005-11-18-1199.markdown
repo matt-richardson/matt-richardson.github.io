@@ -1,0 +1,18 @@
+---
+layout: post
+title: " Nerd post: Hard Shut Down May Be Your Friend "
+date: 2005-11-18 15:09:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/11/18/1199.aspx"]
+---
+<!-- more -->
+
+<P><EM>From: </EM><A href="http://www.coolbits.nu/413.aspx"><EM>http://www.coolbits.nu/413.aspx</EM></A><EM> </EM></P>
+ <P>Oh, today is an icky day. A week and half ago, Loren built me a lovely new desktop computer that I just about had set-up just the way I wanted it. Then this morning, the hard drive with all the programs died an ugly death. Yes, at least I didn't lose any data, but Loren spent much of today diagnosing the problem and obtaining/configuring a new hard drive for me, and so now I'm moving in tonight. Since I had recently set it up (and didn't feel like I was "done"), I hadn't gotten around to backing up that drive. (I won't be making that mistake again - what a pain!)</P>
+ <P>Meantime, I'm reading some of the book <A href="http://apress.com/book/bookDisplay.html?bID=76">The Handbook for Reluctant Database Administrators</A> by Josef Finsel. I'm trying to figure out if I'll be able to attach to one of my databases, or if I will have to go back to the last backup, which means I'll have to redo a few stored procedures. As I was reading, I ran into this interesting tidbit on page 70. (In his example, he was updating a database, and forgot to include a WHERE clause on his UPDATE, so all the records were updated.)</P>
+ <DIR><I>
+ <P>Ask yourself, "Will I have to resort to a backup when this process is done?" If so, and the query hasn't yet completed (and it won't cancel), shut the power off. This may sound drastic, but SQL, as a general rule, will roll back the transaction upon restart and put the database back as it existed before the UPDATE, DELETE, or INSERT. The recovery will take less time than performing a restore, and if the recovery fails, you already concluded before shutting down that you'd resort to restoring a backup anyway, so you haven't really "lost" anything in doing this.</P></DIR></I>
+ <P>I thought this was pretty interesting. Usually, I don't realize I've made the mistake until after it is already done, but if you were doing something that took a long time (and shouldn't have), you might have time to react appropriately. </P>

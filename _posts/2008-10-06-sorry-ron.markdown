@@ -1,0 +1,19 @@
+---
+layout: post
+title: " Sorry Ron… "
+date: 2008-10-06 04:34:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2008/10/05/sorry-ron.aspx"]
+---
+<!-- more -->
+
+<p>What does this say about my <a href="http://www.fancyapint.com/pubs/pub2950.html" title="Hallsville Tavern" mce_href="http://www.fancyapint.com/pubs/pub2950.html">local pub</a>, when they put a sign on the door like this:</p>
+<figure>
+    <a href="/images/IMG_5057_84tBOQ.jpg" mce_href="/images/IMG_5057_84tBOQ.jpg">
+      <img src="/images/IMG_5057_thumb_IU3KpA.jpg" title="Monday only, we shut at 7pm. Sorry Ron" alt="Monday only, we shut at 7pm. Sorry Ron" mce_src="/images/IMG_5057_thumb_IU3KpA.jpg" width="320" border="0" height="240">
+  </a>
+</figure>
+<p>Poor Ron.</p>

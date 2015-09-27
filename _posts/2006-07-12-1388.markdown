@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Photo: The stuff of nightmares... "
+date: 2006-07-12 10:42:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "Photos"]
+alias: ["/mattsblog/archive/2006/07/12/1388.aspx"]
+---
+<!-- more -->
+
+<!-- NEEDS FIXING (fav photo from notre dame) -->
+<BLOCKQUOTE>
+ <P></P>
+ <DIV style="WIDTH: 500px; TEXT-ALIGN: right"><A title="Zooomr :: Photo Sharing" href="http://beta.zooomr.com/photos/mattrichardson/74627/"><IMG style="BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid" height=305 alt="The stuff of nightmares..." src="http://static.zooomr.com//images/8cb947a898408da62f10ce8e84f296cc2eb3c8d7.jpg" width=500 border=0></A> <SPAN style="FLOAT: left">The stuff of nightmares...</SPAN>Hosted on <STRONG>Zooom<SPAN style="COLOR: #9eae15">r</SPAN></STRONG> </DIV>
+ <P></P></BLOCKQUOTE>

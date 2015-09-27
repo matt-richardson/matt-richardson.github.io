@@ -1,0 +1,19 @@
+---
+layout: post
+title: " English... "
+date: 2005-01-09 01:54:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/01/09/246.aspx"]
+---
+<!-- more -->
+
+<P>Just downloading FireFox (which is a different internet browser, like Internet Explorer, but stupider), and i came across the download link:</P>
+ <BLOCKQUOTE>
+ <P><IMG src="/images/firefoxdownload.jpg"></P></BLOCKQUOTE>
+ <P>But... I thought the British invented English...</P>
+ <P>
+ </P>
+ <P><STRONG>Nerd bit:</STRONG> If you must know, I'm downloading cos of the increasing number of people using it, and when you write websites, you need to test in all of them. I must say, for a browser that is supposedly so much better that IE, and fully standards compliant, I've found quite a few non-standard-compliant issues with it already - enough to drive me up the proverbial wall.</P>

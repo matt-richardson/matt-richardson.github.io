@@ -1,0 +1,18 @@
+---
+layout: post
+title: " I'm still alive... "
+date: 2007-01-17 13:20:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2007/01/17/1523.aspx"]
+---
+<!-- more -->
+
+<P>Seems I've been AWOL from the blog for quite a while. Just really haven't been in the mood for writing anything.</P>
+ <P>Been doing lots and lots of stuff, but just really haven't felt like writing about it. I'm sure I will at some point though.</P>
+ <P>Half way through the process of moving thewhole lot over to a new server and new software (<A href="http://www.communityserver.org">community server</A> for those who care). Should run a lot faster and be a lot prettier too.</P>
+ <P>Oh,&nbsp;and for those that dont know yet, I've managed to sort myself a contract - through a consulting company, working at UBS. Got myself sorted till mid April now. Not exactly&nbsp;the technology&nbsp;I was planning to use, but&nbsp;makes up for it in other ways.</P>
+ <P>Anyway, hopefully get back at&nbsp;some point soon, and ramble some more about&nbsp;the many&nbsp;many things I've been up to...</P>
+ <P>Ciao!&nbsp;</P>

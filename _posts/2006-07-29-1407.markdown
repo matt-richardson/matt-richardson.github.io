@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Photo: Autumn rain... "
+date: 2006-07-29 11:15:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["Photos"]
+alias: ["/mattsblog/archive/2006/07/29/1407.aspx"]
+---
+<!-- more -->
+
+<!-- NEEDS FIXING (think its a photo from andrea's wedding?) -->
+ <DIV style="WIDTH: 333px; TEXT-ALIGN: right"><A title="Zooomr :: Photo Sharing" href="http://beta.zooomr.com/photos/mattrichardson/97162/"><IMG style="BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid" height=500 alt="Flowers in the rain" src="http://static.zooomr.com//images/db6f0dc26d6af10c12af29c49df0c31bc6b3b5e7.jpg" width=333 border=0></A> <SPAN style="FLOAT: left">Autumn rain</SPAN> Hosted on <STRONG>Zooom<SPAN style="COLOR: #9eae15">r</SPAN></STRONG></DIV>

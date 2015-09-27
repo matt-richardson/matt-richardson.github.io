@@ -1,0 +1,19 @@
+---
+layout: post
+title: " Vista RC2... "
+date: 2006-10-14 13:34:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2006/10/14/1473.aspx"]
+---
+<!-- more -->
+
+<P>Got it installed, and 90% setup. Seems quite good, smooth, and stable. Very pretty too...</P>
+ <P>Only had&nbsp;three issues - it didn't want to setup while connected to my TV, and also that it seems that media centre shuts down when you connect to the machine by remote desktop:</P>
+ <BLOCKQUOTEdir=ltr style="MARGIN-RIGHT: 0px">
+ <P><FONT face="Courier New" size=2>---------------------------<BR>Windows Media Center<BR>---------------------------<BR>Windows Media Center has been shut down because it was running in a mode that is not supported<BR></FONT><FONT face="Courier New" size=2>over aremote desktop connection. Please restart Windows Media Center to correct this issue.<BR>---------------------------<BR>OK&nbsp;&nbsp; <BR>---------------------------<BR></P></FONT></BLOCKQUOTE>
+ <P>Really quite annoying, as it will kill any TV recordings you've got going if you connect to it at the wrong time.</P>
+ <P>Last issue is that it seems to think that i've only got two speakers connected to it, when I've got it connected to a surround sound system... Oh well, I'm sure there's a way to make it work - just got to find it.</P>
+ <P>Once I've got it sorted, I'll post a pretty picture to make you all jealous <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>

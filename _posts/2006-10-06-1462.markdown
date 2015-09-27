@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Damn... "
+date: 2006-10-06 11:27:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/10/06/1462.aspx"]
+---
+<!-- more -->
+
+<P>Downloading some stuff from Microsoft the other day, and I got these download speeds:</P>
+<figure>
+ <IMG alt="Superfast download speeds - 1.27 MB/sec" src="/images/downloadspeeds.jpg">
+</figure>
+<P>Bugger...<IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

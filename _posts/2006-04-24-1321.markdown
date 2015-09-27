@@ -1,0 +1,15 @@
+---
+layout: post
+title: " My boss is strange... "
+date: 2006-04-24 23:10:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/04/25/1321.aspx"]
+---
+<!-- more -->
+
+<P>Something he said on friday:</P>
+ <blockquote>"Gradually, its just me sailing into deep deep space, just me and a pig..."</blockquote>
+ <P>I fit right in round here&nbsp;<IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

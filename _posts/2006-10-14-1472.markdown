@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Reverse grafitti? "
+date: 2006-10-14 13:25:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Generalities"]
+alias: ["/mattsblog/archive/2006/10/14/1472.aspx"]
+---
+<!-- more -->
+
+<P>Is cleaning a crime? 'Graffiti' by cleaning grimey walls...</P>
+<figure>
+ <IMG title="Reverse grafitti, by Paul Curtis, aka Moose" alt="Reverse grafitti, by Paul Curtis, aka Moose" src="/images/moose-reverse-graffiti.jpg">
+</figure>
+<P>from <A href="http://www.neatorama.com/2006/09/13/soap-not-spray-can-reverse-graffiti-art/">Neatorama</A>, via <A href="http://blog.danbartels.com/archive/2006/09/13/Think-Differenly-_2D00_-When-is-it-not-really-Graffiti.aspx">Dan Bartels</A>.</P>

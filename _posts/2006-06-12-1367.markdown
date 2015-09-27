@@ -1,0 +1,21 @@
+---
+layout: post
+title: " Those thieves are getting bolder... "
+date: 2006-06-12 04:14:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/06/12/1367.aspx"]
+---
+<!-- more -->
+
+<P>Saw this as I wondered down <A href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=kingsway,+Westminster,+Greater+London,+WC2&amp;ll=51.514244,-0.118167&amp;spn=0.008907,0.035534&amp;om=1">Kingsway</A>, near Holburn Station a while back...</P>
+<figure>
+  <IMG height=191 src="/images/atm_stolen.jpg" width=282>
+</figure>
+<P>The notice on the right says:</P>
+<figure>
+   <IMG height=245 src="/images/atm_stolen_notice.jpg" width=177>
+</figure>
+<P>I'm guessing that when this notice was put up, they didn't actually mean that the cashpoints themselves were gonna get stolen! <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

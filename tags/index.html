@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div id="tags">
+	<h1 class="page-title">Tags</h1>
+	<ul class="tag-box inline">
+	{% assign tags_list = site.tags | sort: tag %}  
+	  {% for tag in tags_list %} 
+	    <li><a href="/tag/{{ tag[0] | slugify }}">{{ tag[0] }}</a> <span>({{ tag[1].size }})</span></li>
+	  {% endfor %}
+	{% assign tags_list = nil %}
+	</ul>
+</div>

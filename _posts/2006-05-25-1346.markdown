@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Getting warmer... "
+date: 2006-05-25 18:26:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/05/25/1346.aspx"]
+---
+<!-- more -->
+
+<P>Had a brain wave the other day - for some reason, it struck me that we may actually have six senses. I mean, we have taste, touch, hearing, sight, and smell. But, the ability to sense temperature doesn't really come under these. Its kinda related to touch, but not really. You can determine that something is hot without actually touching it. You can feel the heat of the sun on your face, but does that really come under the category of touch?</P>
+ <P>Whatya think? Did I just elevate myself to the level of Einstein and Newton?</P>

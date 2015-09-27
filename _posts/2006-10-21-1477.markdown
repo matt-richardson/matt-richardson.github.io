@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Good on you, Google... "
+date: 2006-10-21 01:05:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/10/21/1477.aspx"]
+---
+<!-- more -->
+
+<P>Google has just <A href="http://googleblog.blogspot.com/2006/10/corporate-solar-is-coming.html">announced</A> that they're covering the roof of their buildings with solar panels to offset the power they use.</P>
+ <P>Good on you, Google!</P>

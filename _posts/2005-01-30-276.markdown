@@ -1,0 +1,17 @@
+---
+layout: post
+title: " The youth of today... "
+date: 2005-01-30 04:54:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/01/30/276.aspx"]
+---
+<!-- more -->
+
+<P>Reading a <A href="http://www.duncanmackenzie.net/Blog/endif-or-end-if/">blog post</A> recently, and in it, <A href="http://www.duncanmackenzie.net/Blog/">Duncan Mackenzie</A> talks about never typing &#8220;end if&#8221; properly when coding - he types it as &#8220;endif&#8221;, and the auto-correct fixes it for him.</P>
+ <P>I also stumbled across another article from <A href="http://www.google.com">Google's Jobs Dept</A> about the spelling correction system they use, and the data they have for how many people&nbsp;did <A href="http://labs.google.com/britney.html">searches where they misspelt&nbsp;Britney Spears</A>. Its kinda scary how many people screwed that up.</P>
+ <P>Its&nbsp;also scary (as Duncan says), thinking about how many people can't actually spell anymore, and just rely on the spell checker to tell them when something is wrong. Especially seeing that students now type assignments up on the computer. How many kids these days are not actually learning to spell? Its also an issue,&nbsp;as spell checkers don't know context, and words can be correct, just not the right word for the context (as the <A href="http://www.ahajokes.com/com095.html">Ode to Spell Checkers</A> illustrates). We're going to have an entire generation that cant spell if they don't have a computer in front of them.</P>
+ <P>Just goes to show, computers are going to cause the downfall of civilisation as we know it.</P>
+ <P><EM><STRONG>PS</STRONG>&nbsp;- yes,&nbsp;I was paranoid about getting grammar and spelling correct in this post <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></EM></P>

@@ -1,0 +1,23 @@
+---
+layout: post
+title: " Stark raving mad... "
+date: 2006-07-16 01:13:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/07/16/1394.aspx"]
+---
+<!-- more -->
+
+<P>Went and saw the <A href="http://www.rockyhorror.co.uk/">Rocky Horror Show</A> the other day, with Sue and Hannah. </P>
+<figure>
+ <A href="http://www.rockyhorror.co.uk/">
+  <IMG alt="Rocky Horror Show" src="/images/rickyhorrorshowheader.jpg" border=0>
+  </A>
+</figure>
+<P>I'd never seen it before, so&nbsp;this was a bit of an eye opener...&nbsp;Stark raving mad, insane, but fun. Especially enjoyed the audience participation - added to the fun of it all.</P>
+<figure>
+    <IMG alt="Rocky Horror Show ticket stub" src="/images/rockyhorrorpictureshowticketstub.jpg">
+</figure>
+<P dir=ltr>All fun. Could be worth seeing again <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

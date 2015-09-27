@@ -1,0 +1,17 @@
+---
+layout: post
+title: " 'Dungeons and Dragons'... "
+date: 2005-03-16 05:07:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/03/16/321.aspx"]
+---
+<!-- more -->
+
+<P>Always knew those D&amp;D playing people were weird:</P>
+ <P>The other day, ran across <A href="http://www.ynetnews.com/articles//0,7340,L-3052074,00.html">an article</A> (via <A href="http://www.schneier.com/blog/archives/2005/03/security_risks_1.html">Bruce Schneier's Security Blog</A>)&nbsp;which told of the Israeli defense forces giving people who play <A href="http://www.wizards.com/default.asp?x=dnd/welcome">Dungeons and Dragons</A> lower security ratings, as "They're detached from reality and suscepitble to influence". They even talk of sending recruits to "a professional for an evaluation, usually a psychologist".</P>
+ <P>Hmmm... Just goes to show...</P>
+ <P>(what it goes to show, i'm not sure, but hey, why not...)</P>
+ <P><EM>ps - if you've got no idea what D&amp;D is, go read the article anyway, it explains a bit about it...</EM></P>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: " DVD Region Encoding... "
+date: 2005-04-11 01:15:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/04/11/348.aspx"]
+---
+<!-- more -->
+
+<P><FONT face="Courier New">&lt;rant&gt;</FONT></P>
+ <P>Okay, I'm about 5 years too late to really get in on the complaints about DVD region encoding, but, hey, i thought I'd put my 2 cents (pence?) in anyway.</P>
+ <P>DVD region encoding, for those that don't know, is where a DVD and a DVD player have a region setting in them. They have 'Region 1' for North America, Region 2 for Europe, Region 4 for Australia and South American, etc... </P>
+ <P align=center><IMG alt="DVD region map" src="http://www.laserrot.com/images/infobase/regionalmap2.gif"></P>
+ <P>So, *most* DVD players will only play DVDs purchased in the same region (yes, there are multi-region players, but they are less common).</P>
+ <P>This was all done supposedly to cut down on piracy. But, I'm going by the theory that it was done to increase profits, by preventing people buying DVDs from overseas, where they can be much cheaper. (I'm also a bit confused about how that works with the whole free trade thing, but thats another matter...)</P>
+ <P>But, the problem with this is, now that I'm in the UK, I'm in a different region to Australia. So, given that my home is in Australia, I want to be buying DVDs that I'll be able to play in Australia. But, you cant get them here. </P>
+ <P>So, rather than cutting down on piracy as the media moguls intended, it actually makes me look closer at obtaining movies the dodgy way. Its also cutting into their profits, as I'm just not buying DVDs now, which I probably would be if the region encoding didn't exist...</P>
+ <P>Good on ya, media dudes...</P>
+ <P><FONT face="Courier New">&lt;/rant&gt;</FONT></P>

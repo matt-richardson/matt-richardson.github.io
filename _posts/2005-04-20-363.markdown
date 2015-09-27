@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Computer jargon explained... "
+date: 2005-04-20 11:12:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/04/20/363.aspx"]
+---
+<!-- more -->
+
+<P><STRONG>Error message:</STRONG> Terse, baffling remark used by programmers to place blame on users for the program's shortcomings. </P>
+ <P>Lots more 'explanations' to be found at <A href="http://www.effect.net.au/lukastan/humour/Jargon/PC-Jargon.htm">http://www.effect.net.au/lukastan/humour/Jargon/PC-Jargon.htm</A>.</P> 

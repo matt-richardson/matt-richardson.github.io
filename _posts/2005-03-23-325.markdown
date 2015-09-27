@@ -1,0 +1,15 @@
+---
+layout: post
+title: "
+You know when there's something wrong with a country...
+"
+date: 2005-03-23 09:12:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2005/03/23/325.aspx"]
+---
+<!-- more -->
+
+... when the best coffee you can find is from Starbucks...

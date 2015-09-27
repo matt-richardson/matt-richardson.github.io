@@ -1,0 +1,24 @@
+---
+layout: post
+title: " I love Top Gear! "
+date: 2006-07-25 10:47:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Generalities"]
+alias: ["/mattsblog/archive/2006/07/25/1401.aspx"]
+---
+<!-- more -->
+
+<P>Absolutely loved watching Top Gear last week - laughed so much I cried... <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>
+<P>They've got a bit of a thing against caravans, so, just for a laugh, they decided to go for a caravan holiday...</P>
+<figure>
+  <IMG alt="Doing a u-turn" src="/images/topgear_caravan_1.jpg">
+</figure>
+<figure>
+  <IMG alt="Doing a u-turn" src="/images/topgear_caravan_2.jpg">
+</figure>
+<figure>
+  <IMG alt="Doing a u-turn" src="/images/topgear_caravan_3.jpg">
+</figure>
+<P>Needless to say, they made a complete mess of it. Watch the rest of it over <A href="http://www.techeblog.com/index.php/tech-gadget/top-gear-caravan-trip">here</A>. Absolutely brilliant! <IMG alt=":D" class="emoticon" src="/images/emotions/emotion-2.gif" border=0></P>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "
+The colour of my socks is vital to national security...
+"
+date: 2006-07-29 11:09:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/07/29/1406.aspx"]
+---
+<!-- more -->
+
+<P>A <A href="http://www.oneroundpebble.com/paulsblog">mate</A> took this photo for me - I'd seen it when I was in Melbourne last time round, but didn't get a chance to take it myself.</P>
+<figure>
+ <IMG alt="Australian anti-terrorism poster" src="/images/ausantiterrorismposter.jpg">
+</figure>
+ <P>I was quite annoyed when I saw this, as its simply not true. How can what I ate for breakfast help fight terrorists? How can what colour socks I'm wearing be vital to national security? Its just adding to the climate of fear, and&nbsp;getting people used to the idea that the government should&nbsp;know absolutely everything about&nbsp;us... So much for privacy.</P>

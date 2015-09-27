@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Doing the shuffle... "
+date: 2006-05-17 12:18:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/05/17/1342.aspx"]
+---
+<!-- more -->
+
+<P>Kinda tempted, seeing I'll be in Melbourne then...<IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>
+ <P style="TEXT-ALIGN: center"><IMG alt="Melbourne Zombie Shuffle" src="/images/zombieshuffle.jpg"></P>

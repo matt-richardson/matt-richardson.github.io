@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Using gmail as a internet hard drive... "
+date: 2005-05-17 11:03:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/05/17/391.aspx"]
+---
+<!-- more -->
+
+<P>Ran accross a <A href="http://www.viksoe.dk/code/gmail.htm">handy little proggie</A> that allows you to use a <A href="http://www.gmail.com/">GMail</A> email account as a drive accessible from anywhere. Cool, huh?</P>
+ <P>Its been around quite a while, so it seems that <A href="http://www.google.com/">Google</A> is not too upset about it.</P> 

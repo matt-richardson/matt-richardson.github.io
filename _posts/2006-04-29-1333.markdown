@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Site update... "
+date: 2006-04-29 04:22:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/04/29/1333.aspx"]
+---
+<!-- more -->
+
+<P>Seeing <A href="/blog/1303#1304">some people whinged</A>, I did a little jiggery-pokery-black-magic, and now there's a little hourglass when you expand the treeview, and it loads the&nbsp;menu items&nbsp;in the navigation panel. You know, that thing on the left. Go on, try it. I promise you'll like it. Maybe. Okay, you'll be seriously underwhelmed, but hey, I like it.</P>

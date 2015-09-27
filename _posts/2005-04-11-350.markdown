@@ -1,0 +1,35 @@
+---
+layout: post
+title: "
+Geek tip - Reclaiming the Ctrl-R (show project explorer) keyboard shortcut.
+"
+date: 2005-04-11 11:40:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/04/11/350.aspx"]
+---
+<!-- more -->
+
+<P>(This is a geek post - if you're not a geek [ie, most of you], skip it)</P>
+<P>For the maybe 3 or 4 people who read this that&nbsp;are developers, they most likely use Visual Studio.NET.</P>
+<P>In VB6, you used to be able to go Ctrl+R to show the project explorer. Now, even with the VB6 keyboard layout in VS.NET, you cant use Ctrl+R to show the solution explorer. It just sits there and helpfully says &#8220;(Ctrl+R) was pressed. Waiting for second key of chord.", and then doesn't do anything.</P>
+<P>
+  From this
+  <A href="http://groups-beta.google.com/group/microsoft.public.dotnet.general/browse_frm/thread/d46479c28b5b701d/b436f70ac1dbb46f?q=ctrl+r+%22was+pressed%22+%22waiting+for+second+key+of+chord%22&amp;rnum=1#b436f70ac1dbb46f">post in the microsoft.public.dotnet.general newsgroup</A>, I've finally figured out that you can fix it properly:
+</P>
+<BLOCKQUOTE>
+  <P>
+    Go to Tools/Options/<BR>
+    Select Environment folder and then Keyboard
+  </P>
+  <P>
+    Remove or change the commands for the following shortcuts:<BR>
+    * Edit.SwapAnchor<BR>
+    * Edit.ToggleWordWrap<BR>
+    * Edit.ViewWhiteSpace
+  </P>
+</BLOCKQUOTE>
+<P dir=ltr>And it all magically works again! Yay <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "
+Which part of my brain decided it was a good idea to...
+"
+date: 2006-07-16 00:54:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/07/16/1392.aspx"]
+---
+<!-- more -->
+
+<!-- NEEDS FIXING (links to scan no longer work) -->
+<P>Which part of my brain decided it was a good idea to get <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=307337">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=307331">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=214602">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=150692">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=377802">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=368151">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=143742">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=291364">this</A>, <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=405140">this</A> and <A href="http://www.scan.co.uk/Products/ProductInfo.asp?WebProductID=401097">this</A>, and try and turn it into something like <A href="http://www.silverstonetek.com/products-lc11m.htm">this</A>.</P>
+ <P>Not working as planned <IMG alt=:( class="emoticon" src="/images/emotions/emotion-6.gif" border=0>. Instead, it looks something like <A href="/images/mynewcomputerinbits.jpg">this</A>.</P>
+ <P>Maybe I should just stick to software...</P>

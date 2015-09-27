@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Yay... "
+date: 2005-11-18 01:57:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/11/18/1195.aspx"]
+---
+<!-- more -->
+
+<P>High of 4 degrees C today. Low of -1 tonight.</P>
+ <P>I'm not looking forward to heading to Melbourne for a few weeks of summer. No, not at all...</P>

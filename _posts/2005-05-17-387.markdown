@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Not that anyone cares... "
+date: 2005-05-17 10:04:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/05/17/387.aspx"]
+---
+<!-- more -->
+
+<P>But i just updated my <A href="http://www.oneroundpebble.com/matt/myblogroll.html">blogroll</A>. For those that dont know what that means, well, go outside and play, and be grateful. Very grateful.</P>
+ <P>For those that disregarded the previous advice, and for some odd reason are still reading,well, its a list of all the blogs I read (well, try to, that is). Seeing its auto-generated,&nbsp;I couldn't get it to list the ones that&nbsp;I read all the time, and the ones&nbsp;I read when i'm bored out of my brain, but, well, <A href="http://www.oneroundpebble.com/matt/myblogroll.html">check it out</A>. There's definitely some gems in there...</P>

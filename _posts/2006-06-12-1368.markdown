@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Football fever... "
+date: 2006-06-12 04:19:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/06/12/1368.aspx"]
+---
+<!-- more -->
+
+<P>At the pub the other night:</P>
+<figure>
+  <IMG alt="Rabid football dog" src="/images/englishfootballdog.jpg">
+</figure>
+<P>Even the dogs are getting into it!</P>

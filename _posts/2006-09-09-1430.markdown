@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Goldfish... "
+date: 2006-09-09 00:58:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/09/09/1430.aspx"]
+---
+<!-- more -->
+
+Two goldfish are sitting in a tank.
+ One says to the other: "How do you drive this thing?"

@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Chalk art... "
+date: 2006-05-12 22:59:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2006/05/12/1339.aspx"]
+---
+<!-- more -->
+
+<P>Something&nbsp;I meant to post a long time ago, stolen blatently from <A href="http://blogs.technet.com/kclemson/archive/2006/03/10/421798.aspx">KC</A> (who stole it from <A href="http://blogs.technet.com/exchange/articles/63464.aspx">someone else</A>):</P>
+ <P>This <A href="http://www.impactlab.com/modules.php?name=News&amp;file=article&amp;sid=7567">chalk art</A> is amazing. Check it out.</P>

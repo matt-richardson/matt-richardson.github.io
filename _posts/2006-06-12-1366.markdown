@@ -1,0 +1,13 @@
+---
+layout: post
+title: " I love... "
+date: 2006-06-12 03:40:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/06/12/1366.aspx"]
+---
+<!-- more -->
+
+Summer! Its great! <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>

@@ -1,0 +1,25 @@
+---
+layout: post
+title: " A little toasty... "
+date: 2006-07-25 11:46:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2006/07/25/1403.aspx"]
+---
+<!-- more -->
+
+<!-- NEEDS FIXING (thermometer pic)-->
+<P>Been a little toasty round here lately... This is my thermometer the other morning when I got up:</P>
+<P></P>
+<DIV style="WIDTH: 496px; TEXT-ALIGN: right">
+    <A title="Zooomr :: Photo Sharing" href="http://beta.zooomr.com/photos/mattrichardson/95256/">
+        <IMG style="BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid" height=500 alt=Temperature src="http://static.zooomr.com//images/8215fab4bda16568ed1542e8b16b2740d55d9e69.jpg" width=496 border=0> </A>
+    <SPAN style="FLOAT: left">Toasty...</SPAN> Hosted on
+    <STRONG>Zooom<SPAN style="COLOR: #9eae15">r</SPAN></STRONG>
+</DIV>
+<P>Was 32&#176; C at my desk today, and 33&#176; C or so on the train home. Heard on the radio that the average temp for this time of year is 22&#176; C. Its been toasty for a couple of weeks now, and its not a nice heat, its a really humid erky heat...</P>
+<P>Oh well, cant be that bad. At least its not freezing like it is in Melbourne
+    <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.
+</P>

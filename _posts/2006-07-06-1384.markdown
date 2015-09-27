@@ -1,0 +1,24 @@
+---
+layout: post
+title: " What I'm reading... "
+date: 2006-07-06 23:13:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2006/07/07/1384.aspx"]
+---
+<!-- more -->
+
+ <P>
+  <IMG alt="Joel on Software..." src="/images/joelonsoftwarebook.jpg" align="left" style="margin-bottom: 8px; margin-right:15px;">
+  Currently reading "<A href="http://www.amazon.com/gp/product/1590593898/sr=8-1/qid=1152176557/ref=pd_bbs_1/104-1499215-0729568?ie=UTF8">Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity</A>", by <A href="http://www.joelonsoftware.com/AboutMe.html">Joel Spolsky</A>.
+ </P>
+ <P>
+  Given that I'm about 3/4 of the way through it, I can highly recommend it. Granted, it wont mean much if you're not a software developer, or work with one, but for those that are (or do), its great. Its got some good gems in it, and has a lot of stuff about how to run a decent software project.</P>
+ <P>
+  Granted, occaisionally I think Joel has utterly lost the plot, but on the whole, he writes very well, and with a lot of common sense thrown in.
+ </P>
+ <P>
+  Now... Just to get my boss to read it...
+ </P>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: " One last note… "
+date: 2005-10-20 02:37:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/10/20/1170.aspx"]
+---
+<!-- more -->
+
+<P>It&#8217;s been an interesting week at work&#8230; It&#8217;s been pretty stressful, and moral hasn&#8217;t been the best, and it all came to a head this week.</P>
+ <P>The head of software development (my boss) sat down and some pretty honest meetings with us all individually, and we had a chance to get our grievances out. It seems that it&#8217;s all being taken very seriously by the company &#8211; to the point the day after my meeting (which started this whole process), it went all the way to the CEO&#8230;</P>
+ <P>So, things have started to change (only small things as yet), and there are big changes coming&#8230; We&#8217;ll just have to wait and see if it all works.<BR></P>

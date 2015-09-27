@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Poignant... "
+date: 2006-06-12 04:52:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/06/12/1369.aspx"]
+---
+<!-- more -->
+
+<P>From the latest <A href="http://www.gocomics.com/nonsequitur/">Non Sequitur, by Wiley</A>:</P>
+<figure>
+ <IMG alt="Non Sequitur, by Wiley - Politcal Extremism" src="/images/nonsequitur_holocaust.gif">
+</figure>

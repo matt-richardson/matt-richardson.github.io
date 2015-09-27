@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Credit card fraud... "
+date: 2005-04-05 12:29:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/04/05/346.aspx"]
+---
+<!-- more -->
+
+<P>The <A href="http://www.zug.com/pranks/credit_card/">Credit Card Prank II</A> is definitely worth a read... </P>
+ <P>Warning: Do not read while drinking coffee...</P>

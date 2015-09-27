@@ -1,0 +1,20 @@
+---
+layout: post
+title: " Thinking ahead... "
+date: 2005-09-01 11:34:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/09/01/1124.aspx"]
+---
+<!-- more -->
+
+<P>For a while I've been meaning to write a bit of an essay on how it seems our society doesn't really think for the future anymore - but I've never quite got around to it. It also seems that I've forgotten how to write essays, so i think I'll just start writing, and see what comes out. Inspiration for this came from <A href="http://odetocode.com/Blogs/scott/archive/2004/12/04/697.aspx">K. Scott Allens article of the same title</A>, with the caveat that he's talking about software.</P>
+ <P>Way back when, rulers built monuments meant to last for Ages - for example, <A href="http://www.ancientegypt.co.uk/pyramids/home.html">the Pyramids</A>, <A href="/images/%2f01+-+India%2f14+-+Ninth+Weekend+-+Delhi%2c+Agra%2c+Jaipur%2fNinth+Weekend+-+Delhi%2c+Agra+%26+Jaipur+083.jpg.lnk">the Taj Mahal</A>, <A href="http://en.wikipedia.org/wiki/Aachen_Cathedral">the Cathedrals</A> of the middle ages and the like. Yet, today, doesn't seem to be much happening like that. Buildings have a life-expectancy of around 50 years max, and minimizing cost seems to be the overriding factor. No-one seems to be building for the benefit of future generations - just their own.</P>
+ <P>Granted, we have science and technology moving ahead in leaps and bounds, but very very few people focus on&nbsp;things that wont be completed in their own lifetime. About the only thing I know of that people are doing that will deliberately out-last them by a very long time is the <A href="http://www.longnow.org/">Long Now Foundation</A>, which recently built a <A href="http://www.longnow.org/10kclock/clock.htm">clock that is intended to last for 10,000 years</A>, considering things like how to power it, how to protect it from the elements, natural disasters and even teenagers, and how to provide instructions to people to maintain it (how do you know what language they'll be speaking in 10,000 years time?). </P>
+ <P>Other than that, there are those who are cryogenically freezing themselves to be 'woken' at some point in the future - but i don't think that really counts as leaving something for the benefit of future generations (though those being frozen may disagree...) </P>
+ <P>The flip side of this is that most of the monuments from earlier Ages were built by dictators on the blood and sweat of slaves, and I definitely don't condone that.</P>
+ <P>But one must ask the question - In a thousand years, what will be left of our accomplishments, our society, us?</P>
+ <P>So, is it a failure of todays society, that nobody has grand visions like that anymore? Or is it just society focuses on the more immediate problems of hunger and disease?</P>
+ <P>Or is it just a sign of a inward looking generation?</P>

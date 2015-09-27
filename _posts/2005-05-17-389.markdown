@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Bloggers dinner... "
+date: 2005-05-17 10:44:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/05/17/389.aspx"]
+---
+<!-- more -->
+
+<P>Now, I've already&nbsp;been laughed at for this, so I'm gonna try and word it a bit better this time...</P>
+ <P>I just signed up for a <A href="http://www.perfectpath.co.uk/wiki/index.php/London_Geek_Dinner_June_7th_2005">bloggers dinner</A> thats happening early next month. Now, hopefully its not gonna be a complete geek fest - I'm going cos it'll be a good chance to hopefully meet some interesting people and make some good contacts. Always good to have contacts when the time to get a new contract rolls around.</P>
+ <P>Just have to hope my <A href="http://gapingvoid.streetcards.com/">blogcards</A> come through in time <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>
+ <P>But, if it turns out to be painful (read: geeky), well, I'll just duck around the corner to a <A href="http://www.waxyoconnors.co.uk/london/index.asp">cool little bar</A>&nbsp;I know...</P>

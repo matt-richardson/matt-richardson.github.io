@@ -1,0 +1,44 @@
+title: Matt Richardson
+description: Matt Richardson's ramblings
+
+url: http://mjrichardson.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /
+ - title: Tags
+   url: /tags
+ - title: Contact
+   url: /contact
+ - title: About
+   url: /about
+
+social:
+   github: matt-richardson
+   twitter: squire_matt
+   facebook: squirematt
+   email: matt@redgumtech.com.au
+
+google_analytics: 
+
+exclude : [
+	'BlogML.xml', 'blogml.rb', 'node_modules', 'todo.md', 'convert-comments.rb',
+	'config.rb', 'disqus-comments.xml', 'Gruntfile.js', 'package.json', 'README.md',
+	're-convert.sh', 'LICENSE', 'assets/scss'
+	]
+
+asset_bundler:
+  compress:
+    js: yui
+    css: yui
+  base_path: /assets/bundles/
+  remove_bundled: true
+  dev: false
+

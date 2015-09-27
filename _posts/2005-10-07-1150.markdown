@@ -1,0 +1,16 @@
+---
+layout: post
+title: "
+Political: European court rules that prisoners have the right to vote...
+"
+date: 2005-10-07 11:41:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/10/07/1150.aspx"]
+---
+<!-- more -->
+
+<P>According to a news item I saw on BBC news earlier (here's a <A href="http://politics.guardian.co.uk/homeaffairs/story/0,11026,1586168,00.html">link from the guardian website</A>), apparently the European court of human rights has ruled that those in prison should be allowed to vote, which will apparently force Britain to review its laws. The ruling says that the right to vote is a basic human right.</P>
+ <P>However, I'm seeing a slight issue with this. Haven't we established that the offender has, by their actions, proven that they cannot be trusted to live according to the laws of society? Yet, we have to trust them with the vote?</P>

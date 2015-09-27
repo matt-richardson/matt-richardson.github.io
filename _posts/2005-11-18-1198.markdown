@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Nasa shoulda used .net... "
+date: 2005-11-18 15:06:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/11/18/1198.aspx"]
+---
+<!-- more -->
+
+<A href="http://bistrotech.net/weblog/PermaLink,guid,d16ff74f-d1a6-46e6-8146-af5869d746d2.aspx">http://bistrotech.net/weblog/PermaLink,guid,d16ff74f-d1a6-46e6-8146-af5869d746d2.aspx</A>

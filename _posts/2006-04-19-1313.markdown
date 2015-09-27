@@ -1,0 +1,12 @@
+---
+layout: post
+title: " Life "
+date: 2006-04-19 22:25:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/04/19/1313.aspx"]
+---
+<!-- more -->
+ <P>/discuss</P> 

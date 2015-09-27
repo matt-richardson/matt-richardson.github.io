@@ -1,0 +1,13 @@
+---
+layout: post
+title: " The Aurora... "
+date: 2006-10-14 11:01:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/10/14/1469.aspx"]
+---
+<!-- more -->
+
+A very cool <A href="http://www.youtube.com/watch?v=NZNTgglPbUA">timelapse video of the northern lights</A>...

@@ -1,0 +1,22 @@
+---
+layout: post
+title: " I got me a contract! "
+date: 2005-02-11 15:49:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/02/11/291.aspx"]
+---
+<!-- more -->
+
+<P>Yay!</P>
+ <P>After looking for what seems like an eternity, but which more likely&nbsp;would be about 2 months, &nbsp;I've finally managed to get myself a contract.</P>
+ <P>As of Tuesday morning, I'll be starting as a Senior Software Developer, with the following job description:</P>
+ <BLOCKQUOTEdir=ltr style="MARGIN-RIGHT: 0px">
+ <P><EM>Software Developers required for 3 month contract. On-going development and maintenance of one of Europe's most popular Merger and Acquisition products. Recently launched in the US we require Senior Developers with 5+ years experience designing, developing, deploying and maintaining high-volume Websites globally. Team player is essential. Our current environment/requirement is ASP, VBScript, JavaScript, HTML/DHTML, SQL Server 2000 clustered) and XML/XSLT running on a load balanced Windows 2000 cluster. An essential part of our strategy is the phasing-in and migration to the .NET framework and therefore candidates with experience of VS.NET, ASP.NET, C#, VB.NET and XML Web Services would be desirable. Others skills should include Regular Expressions, XPath, COM, COM+, SQL Server: T-SQL, SPs, UDFs, DTS Packages; XDRs and XSDs, SOAP, ADO and ADO.NET, MS Source Safe, MS Office 2000.</EM></P></BLOCKQUOTE>
+ <P dir=ltr>Damn, thats a lot of acronyms... The scary thing is that I know a fair bit about nearly all of them... And the ones that I don't know, they're fairly easy to figure out... I hope <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>
+ <P dir=ltr>Its all kind of odd. I haven't actually met anyone from the company yet, but I'm starting on Tuesday. I've spoken to the manager (Mark) a few times, and they got me to do 4 <A href="http://www.brainbench.com">BrainBench </A>tests (ouch), which apparently I aced. When/if I get my hands on the results, I'll post them up here (mainly so that I can massage the ego a bit more <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>). I asked if they wanted me to come in for a chat to actually meet each other, but, apparently not - I start on Tuesday, on a 4 day, paid interview <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>. Kind of odd, but who cares. Hopefully I'll get along with the people I'm supposed to be working with <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>
+ <P dir=ltr>Only problem is that I start on Tuesday morning, 9am. I mean, who is alive at that time of day? Whats worse is that I'll have just come back from Rotterdam, having spent all weekend partying. Hopefully I'll be able to stay awake, and actually pay attention on the day... Even worse is how long it'll take me to get from where I'm living (still Crawley - yes Paul, I will move out soon, I promise!) - about an hour and a half or so. Thats a big incentive to get moving on the place to live thing.</P>
+ <P dir=ltr>Oh, on the place to live thing - now that I've got a job, I emailed the last place that I liked (but didn't get because I didn't have a job), and told them the good news. Apparently the room is still available, so maybe I'll have a better chance this time <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>. Otherwise, I'll have to keep looking. I did manage to find a better place to look for places to live - <A href="http://www.moveflat.com">MoveFlat.com</A>&nbsp;- much better than <A href="http://www.gumtree.com">Gumtree.com</A>.</P>
+ <P dir=ltr><RAMBLE mode="off/"></P>

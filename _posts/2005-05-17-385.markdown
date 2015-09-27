@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Pauls travels... "
+date: 2005-05-17 09:54:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2005/05/17/385.aspx"]
+---
+<!-- more -->
+
+<P><A href="http://www.oneroundpebble.com/paulsblog">Paul's</A> finally got around to uploading some <A href="http://www.oneroundpebble.com/common/photoalbum/photoalbum.htm?picturespath=../../paul/travel&amp;initialview=filmstrip">photos</A> (all 5 of them), and damn, I'm jealous. I'm sure he was just as jealous when I was <A href="/blog/185">traveling the greek islands</A>, but, damnit...</P>
+ <P>(Oh, and seems the site is running really slowly at the moment - my apologies. I'll have to ask the lovely people (<A href="http://www.evildruid.net/">jason</A> and <A href="http://www.livejournal.com/users/mirtai/">bron</A>) who are ace enough to look after the server for us to have a look and see if there's anything wrong... [hmmm... methinks i owe them a bottle or two of something quite nice...])</P>

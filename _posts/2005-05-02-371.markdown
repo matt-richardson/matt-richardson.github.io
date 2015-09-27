@@ -1,0 +1,16 @@
+---
+layout: post
+title: " On blogging less... "
+date: 2005-05-02 04:31:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/05/02/371.aspx"]
+---
+<!-- more -->
+
+<P>From <A href="http://www.gapingvoid.com/Moveable_Type/archives/001570.html">gapingvoid's latest post</A> (the guy with the cool t-shirts), where he quotes Mena Trott, Six Apart's co-founder, in <A href="http://www.sixapart.com/about/corner/2005/04/i_take_the_bait.html">his post:</A></P>
+ <BLOCKQUOTE>
+ <P>Frankly, I know that when my heaviest periods of blogging came when I was unemployed or not feeling fulfilled at work.</P></BLOCKQUOTE>
+ <P dir=ltr>Yeah,&nbsp;I can&nbsp;agree with that. Always a bummer when you enjoy the stuff you're doing at work... <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

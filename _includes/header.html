@@ -1,0 +1,22 @@
+ <div class="header">
+     <div class="container">
+         <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+         <nav class="nav-collapse">
+             <ul class="noList">
+                {% capture full_page_url %}{{ site.url }}{{ page.url }}{% endcapture %}
+                {% capture full_page_url %}{{ full_page_url | replace:'//','/' }}{% endcapture %}
+
+                {% for link in site.navigation %}
+                {% assign current = nil %}
+                {% capture full_link_url %}{{ site.url }}{{ link.url }}/index.html{% endcapture %}
+                {% capture full_link_url %}{{ full_link_url | replace:'//','/' }}{% endcapture %}
+                
+                {% if full_page_url == full_link_url %}{% assign current = 'current' %}{% endif %}
+                <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                     <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                 </li> 
+                 {% endfor %}
+             </ul>
+         </nav>
+     </div>
+ </div><!-- end .header -->

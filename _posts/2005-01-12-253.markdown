@@ -1,0 +1,15 @@
+---
+layout: post
+title: " On Cool Stuff... Is your monitor dirty? "
+date: 2005-01-12 16:32:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/01/12/253.aspx"]
+---
+<!-- more -->
+
+<P>Is your monitor dirty? Here's an easy way to <A href="http://60gp.ovh.net/~cleanyou/"><FONT color=#cc3300>clean your screen</FONT></A>.</P>
+ <P>[Shamelessly stolen from <A href="http://www.edbott.com/weblog/archives/000372.html">http://www.edbott.com/weblog/archives/000372.html</A>]</P>
+ 

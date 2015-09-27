@@ -1,0 +1,14 @@
+---
+layout: post
+title: " On dating developers... "
+date: 2005-06-15 23:46:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/06/16/620.aspx"]
+---
+<!-- more -->
+
+<P>Once again, I'm not sure if&nbsp;I&nbsp;want to associate myself with <A href="http://www.emilyhambidge.com/blog/emily/66/">this</A>, but its&nbsp;pretty funny...&nbsp;</P>
+ <P>(And no, I'm <STRONG>not</STRONG> that bad).</P>

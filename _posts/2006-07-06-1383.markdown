@@ -1,0 +1,17 @@
+---
+layout: post
+title: "
+Finally! Somebody twigs that Apple & the iPod are anti-competitve...
+"
+date: 2006-07-06 12:27:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/07/06/1383.aspx"]
+---
+<!-- more -->
+
+<P>Finally, instead of purely Microsoft bashing, law-makers have finally realised that the iPod is anti-competitive.</P>
+ <P><A href="http://news.yahoo.com/s/ap/20060630/ap_on_hi_te/france_itunes_law">French law-makers have approved a law</A> forcing Apple to make its music format available to other manufacturers, rather than only allowing iTunes music to be played on iPods...</P>
+ <P>via <A href="http://www.ehomeupgrade.com/entry/2752/french_lawmakers_approve">eHomeUpgrade</A>.</P>

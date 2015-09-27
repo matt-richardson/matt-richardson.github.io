@@ -1,0 +1,15 @@
+---
+layout: post
+title: " A funky shot "
+date: 2005-10-20 02:29:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "On Generalities"]
+alias: ["/mattsblog/archive/2005/10/20/1167.aspx"]
+---
+<!-- more -->
+
+<P>Had a very foggy morning yesterday &#8211; definitely seems that winter is looming round the corner&#8230;<BR>On my way to work, managed to take a half-decent photo (if I do say so myself&#8230; <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>):</P>
+ <figure><IMG src="/images/blogpost_funkyshot_spitalfieldschurch.jpg"></figure>
+ <P>You like?</P>

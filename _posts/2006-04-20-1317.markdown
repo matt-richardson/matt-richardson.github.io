@@ -1,0 +1,16 @@
+---
+layout: post
+title: " The local coffee shop... "
+date: 2006-04-20 23:22:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/04/21/1317.aspx"]
+---
+<!-- more -->
+
+<P>The sign outside the coffee shop right near work:</P>
+<figure>
+  <IMG alt="sign outside the coffee shop: i used to be indecisive, now i'm not so sure." src="/images/iusedtobeindecisive.jpg">
+</figure>

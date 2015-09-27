@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Freaky "
+date: 2009-02-09 05:12:26 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/archive/2009/02/08/freaky.aspx"]
+---
+<!-- more -->
+
+<p><a title="Two Faced Kitten" href="http://www.smh.com.au/news/national/twofaced-kitten-born-in-perth--a-hrefhttpwwwsmhcomauphotogallery200703071173166769017html-bphotosb/2008/11/20/1226770635862.html">This</a> kinda freaks me out a bit…</p>

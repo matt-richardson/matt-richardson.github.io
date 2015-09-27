@@ -1,0 +1,18 @@
+---
+layout: post
+title: " The state of IT recruitment... "
+date: 2005-08-13 13:48:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/08/13/1111.aspx"]
+---
+<!-- more -->
+
+<P>Just a quick note to say how disgusted I am with the state of IT recruitment in London these days. I mean, if I get another (effectively) spam email that outlines a job where the only relation to me is that its in IT, and hey, I just happen to work in IT, I'm gonna go mental.</P>
+ <P>I have <STRONG>never</STRONG> told any recruitment agent that I'm looking for a permanent job, and I've never told anyone that I was looking outside London. It was always contract, and it was always in central London. But, these days, all I seem to get are bulk emails with job outlines.</P>
+ <P>It seems that recruitment companies don't even bother with any kind of data mining/data analysis/searching their own databases first. They just send out a bulk email and see how it goes. The nicely add &#8220;The following vacancy may be suitable for you.&nbsp; If it is not then accept our apologies and update us as soon as possible with your current skills.&#8221; Gee. Thanks. My skills haven't really changed (okay, so they have - i have learnt a few things in my current job), but I never met the criteria for this role, so why am I getting emails?</P>
+ <P>What happened to the agencies that actually knew their contractors, looked out for them, treated them with respect?</P>
+ <P>I've also had a glimpse lately of the other side of the coin. My team lead put out an advert, with the first line being &#8220;No Agencies&#8221;. Within hours, he was getting phone calls from agents. What, cant they read now? These guys are harassing my team lead, phoning day after day, after specifically being told &#8220;no phone calls - email only&#8221;. </P>
+ <P>Gah! Where's the professionalism gone? (Then again, was it ever there???)</P>

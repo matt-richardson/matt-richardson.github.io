@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Ahh! So that's what it means... "
+date: 2005-05-25 12:19:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/05/25/416.aspx"]
+---
+<!-- more -->
+
+Ahh! I've finally figured out <A href="http://www.textileaffairs.com/lguide.htm">what it all means</A>...

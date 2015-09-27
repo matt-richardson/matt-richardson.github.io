@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Site changes... "
+date: 2005-01-09 17:31:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/01/09/250.aspx"]
+---
+<!-- more -->
+
+<P>Had to change a bit of the site today, for a few reasons:</P>
+ <UL>
+ <LI>Legions of lazy scrabrous mangy fleabags were complaining that they couldn't access the photos link in the menu. So, I've changed it to something thats a lot more ugly, but supposedly cross-browser compatible, and also backwards compatible. And, as an added benefit,&nbsp;I didn't write it, so thats an extra point in ensuring it will actually work. If it doesn't, well.. you know what you can do. Thats right. <A href="http://www.oneroundpebble.com/mattsblog/contact.aspx">Whinge</A> about it.<BR></LI>
+ <LI>Due to overwhealming amounts of spam in the comments on the blogs here (two, thats right, <STRONG>two</STRONG>), I've turned on an option to &#8220;make sure you're a human&#8220;, rather than a computer. I know that some of you dont technically qualify for the label "human", but we'll just let that slide - you should still be able to handle it. If you dont type in the short string-of-random-characters, it will ignore your comment. So, type it in carefully. But, then again, most of y'all weren't leaving any comments, even when I <A href="/blog/remember-the-secret-policemans-ball">specifically asked for them</A>, so its not really going to affect you. And, if you cant already tell, I'm a little put out by that. </LI></UL>
+ <P>So, now that&nbsp;I've told you stuff, and had a whinge, I'm going to go and suck my thumb. Again.</P>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Annoying laptops... "
+date: 2004-12-31 00:19:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2004/12/31/224.aspx"]
+---
+<!-- more -->
+
+<P>Just recently my laptop has been a bit odd, and blue-screened a few times on me.</P>
+ <P>Today, I found out why. When I turned it on this morning, it popped up with &#8220;SMART Disk Drive: Imminent Disk Failure&#8221;. That explains why it hasn't been too happy lately. At least its telling me that its about to happen, not that it has happened. I can get all my important stuff of it now.</P>
+ <P>I just get the fun of reinstalling everything. Yay. </P>

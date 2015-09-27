@@ -1,0 +1,18 @@
+---
+layout: post
+title: " yeah, yeah, yeah, I'm still here... "
+date: 2005-08-04 11:57:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/08/04/1089.aspx"]
+---
+<!-- more -->
+
+<P>I've just been told off by someone for not writing anything for my blog lately... Admittedly, she's probably the only person who does read it, but hey, at least someone does... <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>
+ <P>Anyway, I've got a big list of things I've been meaning to write about for a long time - each time I find something to write about, i put it in an email to myself, and put it in a folder to look at later... However, later hasn't been happening lately (there's 33 emails there). Not entirely sure why... Just haven't been feeling like jumping online and writing anything lately.</P>
+ <P>Could have something to do with the huge project that we've been working on at work. Its a *huge* project, thats been poorly defined, and therefore, when we've been putting it together, we've had to clarify lots of stuff as we go along. I've put the same page together three times so far (and then there's the rest of the site that I've done as well).</P>
+ <P>But, that said, it seems to be coming together now. Its at a point where its getting harder to find the missing bits, and the broken bits. Part of the problem is that&nbsp;I know&nbsp;I wont be able to point at the site and say &#8220;I did that&#8221;, cos its all password protected - all you can see is a funky front page... Well, you will be able to when its been uploaded. Come to think of it, I'm not even sure I'm allowed to mention the name of it...</P>
+ <P>Anyway, before that I was on another less-than-perfectly defined project - at least this one was a lot smaller. However, it still took a lot longer than it should've, for many and varied reasons... Wont go into them here, but it went live today (or was it yesterday), and apparently everyone loves it. Its fast, its smooth, its amazing (they say). Tom's told us (<A href="http://biscuit-rant.blogspot.com">Biscuit</A> and I worked on it together) that he owes us a beer or 6 - any beer, any pub, all night long. I told him&nbsp;I knew a great pub in Melbourne, but he back-peddled a bit on that one...</P>
+ <P>Anyway, thats roughly whats been happening. I might put together another&nbsp;post to say what the vague plans for the future are... Lots happening, coming up soon...</P>

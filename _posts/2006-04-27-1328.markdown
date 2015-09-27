@@ -1,0 +1,19 @@
+---
+layout: post
+title: " My latest toy... "
+date: 2006-04-27 09:53:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/04/27/1328.aspx"]
+---
+<!-- more -->
+
+<P>Thought it was about time&nbsp;I blogged about my latest toy:</P>
+ <P style="TEXT-ALIGN: center"><IMG alt="T-Mobile MDA Vario" src="/images/tmobilemdavario.jpg"></P>
+ <P>Its a T-Mobile MDA Vario (also known as a HTC Wizard).</P>
+ <P>Slide out keyboard, internet access via wi-fi or GRPS, full windows mobile o/s, so media player, word, excel, lots of games, and all the mod cons.</P>
+ <P>Very nice piece of kit actually, just not quite as stable as I'd like. But, the benefits far outweigh the negatives, so it all works brilliantly.</P>
+ <P>Best bits&nbsp;I like are the syncing of email, contacts, calendar and tasks with my email account, so I'm up to date all the time. And if I'm bored, I can sit there and reply to emails. Also managed to find myself a sudoku game as well, so thats a good way to occupy myself on the train.</P>
+ <P>Now just got to get the extra GPS receiver and software, and I'll be laughing <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>.</P>

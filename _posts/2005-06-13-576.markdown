@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Bonus! "
+date: 2005-06-13 04:42:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Generalities"]
+alias: ["/mattsblog/archive/2005/06/13/576.aspx"]
+---
+<!-- more -->
+
+<P>Got an email the other day from Bulldog,&nbsp;our internet provider.</P>
+ <P>Just for the hell of it, they're going to up our connection to an 8 meg connection (instead of the current 4 meg). No extra cost, nothing to do. </P>
+ <P>Damn... How annoying. Not.</P>

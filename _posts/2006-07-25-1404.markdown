@@ -1,0 +1,17 @@
+---
+layout: post
+title: " Photo: Lighthouse "
+date: 2006-07-25 11:48:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Travels", "Photos"]
+alias: ["/mattsblog/archive/2006/07/25/1404.aspx"]
+---
+<!-- more -->
+
+<!-- NEEDS FIXING (lighthouse from inishbofin) -->
+<BLOCKQUOTE>
+ <P></P>
+ <DIV style="WIDTH: 500px; TEXT-ALIGN: right"><A title="Zooomr :: Photo Sharing" href="http://beta.zooomr.com/photos/mattrichardson/97166/"><IMG style="BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid" height=375 alt="Inishbofin Lighthouse" src="http://static.zooomr.com//images/4aee40f8553178e43f4a184115706cdb476a1966.jpg" width=500 border=0></A> <SPAN style="FLOAT: left">Inishbofin lighthouse</SPAN> Hosted on <STRONG>Zooom<SPAN style="COLOR: #9eae15">r</SPAN></STRONG></DIV>
+ <P></P></BLOCKQUOTE>

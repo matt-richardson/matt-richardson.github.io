@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Software project management articles "
+date: 2005-10-13 12:27:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/10/13/1157.aspx"]
+---
+<!-- more -->
+
+<P>I ran across a few interesting articles in the last little while, both from the same site, <A href="http://haacked.com">haacked.com</A>:</P>
+ <P>First one is <A href="http://haacked.com/archive/2005/09/24/GoingIntoDesignDebt.aspx">Going into Design Debt</A>, which is a great way of explaining to management how (lack of) proper design now impacts the project.</P>
+ <P>Second one is <A href="http://haacked.com/archive/2005/10/09/ThePoorManagementEpidemic.aspx">The Poor Management Epidemic</A>, which highlights management short-sightedness.</P>
+ <P>Both very well written - go read them, even if you aren't a techy (okay, maybe some of you wont be interested at all, but they're a good insight into developers pain...)</P>

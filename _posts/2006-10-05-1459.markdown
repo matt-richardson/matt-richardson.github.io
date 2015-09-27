@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Giving a damn... "
+date: 2006-10-05 22:19:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/10/05/1459.aspx"]
+---
+<!-- more -->
+
+<P>Ran across an old post today thats quite interesting... To paraphrase: </P>
+ <BLOCKQUOTE>
+ <P><EM>If you're not passionate about what you're doing with your life, why are you doing it?</EM></P></BLOCKQUOTE>
+ <P>Check it out at <A href="http://www.awasu.com/weblog/?p=232">awasu</A>, and follow the link to the <A href="http://headrush.typepad.com/creating_passionate_users/2004/12/if_some_people_.html">other article</A>&nbsp;as well. Interesting.</P>

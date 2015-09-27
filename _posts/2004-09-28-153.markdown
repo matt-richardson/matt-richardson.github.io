@@ -1,0 +1,15 @@
+---
+layout: post
+title: " The blog is back... "
+date: 2004-09-28 18:44:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/archive/2004/09/28/153.aspx"]
+---
+<!-- more -->
+
+<P>Yay, finally. I can access the blog again! I&#180;ve been having serious issues with it, but it now looks like i can access it!</P>
+ <P>I&#180;ve written a few blog entries on my handheld - i&#180;ll try and upload them in the next few days. I just thought i&#180;d put this one up, and let you know that i&#180;m still alive.</P>
+ <P>Be patient - there is lots more coming...</P>

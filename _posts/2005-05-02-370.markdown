@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Passion for your job... "
+date: 2005-05-02 03:07:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/05/02/370.aspx"]
+---
+<!-- more -->
+
+Just read an <A href="http://www.awasu.com/weblog/?p=232">interesting post</A> over on the <A href="http://www.awasu.com/weblog/">awasu blog</A>, about being passionate about work. Go check it out, and also the <A href="http://headrush.typepad.com/creating_passionate_users/2004/12/if_some_people_.html">other article</A>&nbsp;that he points to. 

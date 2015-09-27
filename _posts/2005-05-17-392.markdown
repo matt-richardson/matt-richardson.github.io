@@ -1,0 +1,14 @@
+---
+layout: post
+title: " Solar Death Ray... "
+date: 2005-05-17 11:08:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff"]
+alias: ["/mattsblog/archive/2005/05/17/392.aspx"]
+---
+<!-- more -->
+
+<P>Some people have way too much time on their hands. Either that, or they have delusions of meglomania...</P>
+ <P>This guy's built a <A href="http://www.solardeathray.com/">solar death ray</A>&nbsp;machine, and uses it to attack <A href="http://www.solardeathray.com/army.html">poor inanimate objects</A>, and even <A href="http://www.solardeathray.com/duck.html">cute little duckies</A>!</P>

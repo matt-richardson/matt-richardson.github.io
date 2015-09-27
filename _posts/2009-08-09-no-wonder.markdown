@@ -1,0 +1,17 @@
+---
+layout: post
+title: " No wonder… "
+date: 2009-08-09 20:50:58 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities", "On Strangeness"]
+alias: ["/mattsblog/archive/2009/08/09/no-wonder.aspx"]
+---
+<!-- more -->
+
+<p>… People think cricket is strange:</p>
+<figure>
+    <img title="Cricket - Onions on a hat-trick" border="0" alt="Cricket - Onions on a hat-trick" src="/images/IMG_00402_313B13B2.jpg" width="440" height="277">
+</figure>
+<p>“Onions on a hat-trick”? Really?</p>

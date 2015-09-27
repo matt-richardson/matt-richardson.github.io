@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Paul has a blog! "
+date: 2004-12-14 15:08:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2004/12/14/196.aspx"]
+---
+<!-- more -->
+
+<P>The boy has finally jumped on the bandwagon and got a blog going...</P>
+ <P>Not that he's written anything exciting on it yet, but, well, we can hope...</P>
+ <P>If you've got a vague idea of who he is, go check it out. Its under the &#8220;Paul and Lyds&#8221; bit in the menu on the left there. Or, if you're doing the blog reader thing, its at <A href="http://www.oneroundpebble.com/paulsblog">www.oneroundpebble.com/paulsblog</A>. Even if you dont know who he is, feel free to read about his exciting life and his exciting travels...</P>
+ <P>Oh, and Paul - Welcome to the wonderful world of blogging... You're going to regret it <IMG alt=":D" class="emoticon" src="/images/emotions/emotion-2.gif" border=0></P>

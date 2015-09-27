@@ -1,0 +1,16 @@
+---
+layout: post
+title: " The tsunami earthquake... "
+date: 2005-01-29 14:10:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/01/29/275.aspx"]
+---
+<!-- more -->
+
+<P>Read a vaguely interesting article the other week when I was trying to find information about the latest NASA launch (I think it was the one that's supposed to impact that comet), about the seismological effects of the earthquake that caused the Boxing Day tsunami: </P>
+ <BLOCKQUOTE>
+ <P>NASA scientists using data from the Indonesian earthquake calculated it affected Earth's rotation, decreased the length of day, slightly changed the planet's shape, and shifted the North Pole by centimeters. The earthquake that created the huge tsunami also changed the Earth's rotation. </P>
+ <P>From: <A href="http://www.nasa.gov/centers/jpl/news/earthquake-011005.html">http://www.nasa.gov/centers/jpl/news/earthquake-011005.html</A></P></BLOCKQUOTE>

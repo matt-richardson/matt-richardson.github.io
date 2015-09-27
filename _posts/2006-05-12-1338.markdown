@@ -1,0 +1,17 @@
+---
+layout: post
+title: " I'm a happy puppy... "
+date: 2006-05-12 22:55:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/05/12/1338.aspx"]
+---
+<!-- more -->
+
+<P>(or something...)</P>
+ <P>I've got internet at home now! Finally!</P>
+ <P>24 Meg wireless - woohoo <IMG alt=":D" class="emoticon" src="/images/emotions/emotion-2.gif" border=0>&nbsp;-&nbsp;no more internet via grps for me (damn, that was painful).</P>
+ <P>Only problem is that&nbsp;I haven't really been that excited about it when I've been home - too stuffed to do anything useful... </P>
+ <P>Oh well... I'll just gloat that I've got it <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

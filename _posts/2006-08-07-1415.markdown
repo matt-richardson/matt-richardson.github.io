@@ -1,0 +1,15 @@
+---
+layout: post
+title: " I'm loving this Atlas stuff... "
+date: 2006-08-07 09:12:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/08/07/1415.aspx"]
+---
+<!-- more -->
+
+<P>Been reading <A href="http://weblogs.asp.net/scottgu/archive/2006/06/19/More-Atlas-Resources-_2800_Videos_2C00_-Articles_2C00_-WebCasts-and-Books_2900_.aspx">about</A>, watching a few <A href="http://weblogs.asp.net/scottgu/archive/2006/06/19/More-Atlas-Resources-_2800_Videos_2C00_-Articles_2C00_-WebCasts-and-Books_2900_.aspx">screencasts</A>, and even doing a bit of <A href="http://atlas.asp.net/">Atlas</A> development, with ASP.NET.</P>
+ <P>Damn, I'm loving it! Its going to make life sooo much easier.</P>
+ <P>Now, just have to get away from doing the ancient (and extremely painful) ASP that they make me do at work... </P>

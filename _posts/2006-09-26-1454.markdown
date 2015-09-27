@@ -1,0 +1,20 @@
+---
+layout: post
+title: " Useful dev tools... "
+date: 2006-09-26 04:39:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/pages/1454.aspx"]
+---
+<!-- more -->
+
+<P>Just a place where I can keep a list of cool and useful tools that I use lots...</P>
+ <UL>
+ <LI><SPAN class=Normal id=dnn_ctr542_HtmlModule_HtmlHolder>Regulazy - point and click generation of regular expressions - <A href="http://tools.osherove.com/">http://tools.osherove.com/</A></SPAN> 
+ <LI><SPAN class=Normal>Notepad2 - notepad with a few extensions - <A href="http://www.flos-freeware.ch/notepad2.html">http://www.flos-freeware.ch/notepad2.html</A></SPAN> 
+ <LI>Inline search for Internet Explorer - <A href="http://www.core-services.fr/inline-search/">http://www.core-services.fr/inline-search/</A> 
+ <LI>IE Developer Toolbar - <A href="http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&amp;displaylang=en</A>
+ <LI>IE HTTP Headers - <A href="http://www.blunck.info/iehttpheaders.html">http://www.blunck.info/iehttpheaders.html</A>
+ <LI><SPAN class=Normal>and I'll hopefully add to this as I remember more...</SPAN></LI></UL>

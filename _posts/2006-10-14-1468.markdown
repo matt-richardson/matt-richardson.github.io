@@ -1,0 +1,20 @@
+---
+layout: post
+title: "
+There's nothing better to be doing on a friday night than...
+"
+date: 2006-10-14 11:00:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/10/14/1468.aspx"]
+---
+<!-- more -->
+
+<P>... sitting at home installing Vista RC2, reading blogs, and doing some blogging.</P>
+ <P>Okay, well maybe there is. But, in the interests of sharing the love, this caught my eye:</P>
+ <BLOCKQUOTE>
+ <P><EM>... some currencies, notably </EM><A title="Pound sterling" href="http://en.wikipedia.org/wiki/Pound_sterling"><EM>sterling</EM></A><EM> issued by </EM><A title=Scotland href="http://en.wikipedia.org/wiki/Scotland"><EM>Scottish</EM></A><EM> banks, is not legal tender but is accepted by longstanding confidence in the Scottish banking system.<BR></EM>From <A href="http://en.wikipedia.org/wiki/Fiat_currency">http://en.wikipedia.org/wiki/Fiat_currency</A>.</P></BLOCKQUOTE>
+ <P dir=ltr>Interesting. </P>
+ <P dir=ltr>Anyway, be prepared... Few more random posts coming, and some <STRONG>news</STRONG>...</P>

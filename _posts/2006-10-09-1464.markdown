@@ -1,0 +1,17 @@
+---
+layout: post
+title: " The blanket monster... "
+date: 2006-10-09 11:32:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/10/09/1464.aspx"]
+---
+<!-- more -->
+
+<P>My nephew's now 6 months old... And has grown into a blanket monster, it seems:</P>
+<figure>
+  <IMG alt="The blanket monster" src="/images/isaiahinablanket.jpg">
+</figure>
+<P>How cute is he??? <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>

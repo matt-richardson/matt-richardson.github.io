@@ -1,0 +1,16 @@
+---
+layout: post
+title: " The American internet? "
+date: 2005-09-01 09:53:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/09/01/1122.aspx"]
+---
+<!-- more -->
+
+<P>Been meaning to write about this for a while, but never quite got around to it.</P>
+ <P>About 2 months ago, the US government announced that it <A href="http://www.theregister.co.uk/2005/07/01/bush_net_policy/">would not be relinquishing control of the root name servers</A> that are the basis of the internet, and retaining control indefinitely.</P>
+ <P>This is decidedly worrying, as it would allow the US government to bring the internet to its knees at Bush's whim. (And given Bush's history of unilateral action...) Its the same kind of threat that forced the European Union to build Galileo - a competitor to the&nbsp;<A href="http://www.trimble.com/gps/">GPS system of satellites</A>, which could be <A href="http://www.useu.be/Galileo/Dec1504USGPSPolicy.html">disabled by the US government</A> under the guise of 'national security' (causing untold damage and loss).</P>
+ <P>Hmmm... Don't know if this worries you, but it worries me...</P>

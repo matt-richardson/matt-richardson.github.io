@@ -1,0 +1,15 @@
+---
+layout: post
+title: " Geek post: Firefox plugins... "
+date: 2005-11-09 14:31:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/11/09/1187.aspx"]
+---
+<!-- more -->
+
+<P>Why is everyone so excited about the <A href="http://www.edbott.com/weblog/?p=1128">Firefox plugins</A> that you can make?</P>
+ <P>They seem to think that they are the bees knees, yet as far as i can tell, they dont do anything that hasn't been available for donkeys years in Internet Explorer.</P>
+ <P>Just another aspect of the <A href="http://www.subimage.com/sublog/subModal#comment-94">selective</A> <A href="http://blogs.msdn.com/ie/archive/2005/10/12/480242.aspx#480496">vision</A> that Firefox advocates have... can anyone say Religious War?</P>

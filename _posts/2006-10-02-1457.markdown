@@ -1,0 +1,16 @@
+---
+layout: post
+title: " A changed mindset... "
+date: 2006-10-02 23:55:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2006/10/03/1457.aspx"]
+---
+<!-- more -->
+
+<P>From the <A href="http://blogs.msdn.com/rssteam/archive/2006/09/09/747111.aspx">RSS team blog</A>:</P>
+ <BLOCKQUOTE>
+ <P><EM>It has therefore been our #1 guiding principle that we would aim for a secure experience first -- sacrificing functionality, if necessary,to achieve it.</EM></P></BLOCKQUOTE>
+ <P dir=ltr>Definitely a change in the mindset - it used to be all about enabling functionality, with little regard for security. I think thats what made Windows the dominant operating system. But, those scumbags that think creating viruses and spyware is fun killed the functionality and ease of use thing...</P>

@@ -1,0 +1,58 @@
+---
+layout: post
+title: " Some wedding snaps... "
+date: 2006-09-25 09:00:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/09/25/1450.aspx"]
+---
+<!-- more -->
+
+<P>Seeing I'm getting hassled to get some photos from Andrew and Caths wedding up, I thought I'd better pull my finger out:</P>
+<figure>
+  <IMG alt="Cath and her Dad" src="/images/AndrewAndCathsWedding_CathAndDad.JPG">
+  <figcaption>Cath and her Dad</figcaption>
+</figure>
+<figure>
+    <IMG alt="Cath and her Dad" src="/images/AndrewAndCathsWedding_CathAndDad2.JPG">
+    <figcaption>Cath and her Dad</figcaption>
+</figure>
+<figure>
+    <IMG alt="Andrew, Cath and the Registrar" src="/images/AndrewAndCathsWedding_1.JPG">
+    <figcaption>Andrew, Cath and the Registrar</figcaption>
+</figure>
+<figure>
+    <IMG alt="Andrew, Cath and the Registrar" src="/images/AndrewAndCathsWedding_2.JPG">
+    <figcaption>Andrew, Cath and the Registrar</figcaption>
+</figure>
+<figure>
+    <IMG alt="Andrew, Cath and the Registrar, and Andrea hanging round" src="/images/AndrewAndCathsWedding_3.JPG">
+    <figcaption>Andrew, Cath and the Registrar, and Andrea hanging around</figcaption>
+</figure>
+<figure>
+    <IMG alt="The Kiss" src="/images/AndrewAndCathsWedding_TheKiss.JPG">
+    <figcaption>The Kiss</figcaption>
+</figure>
+<figure>
+    <IMG alt="Signing the Register" src="/images/AndrewAndCathsWedding_Signing.JPG">
+    <figcaption>Signing the Register</figcaption>
+</figure>
+<figure>
+    <IMG alt="The Family" src="/images/AndrewAndCathsWedding_TheFamily.JPG">
+    <figcaption>The Family</figcaption>
+</figure>
+<figure>
+    <IMG alt="The Bridesmaids" src="/images/AndrewAndCathsWedding_TheBridesmaids.jpg">
+    <figcaption>The Bridesmaids (with one missing (she missed the flight!))</figcaption>
+</figure>
+<figure>
+    <IMG alt="Me and Andrea" src="/images/AndrewAndCathsWedding_MattAndAndrea.jpg">
+    <figcaption>Me and Andrea aka 'The Best Man and Groomsman' (Andrea was the Best 'Man')</figcaption>
+</figure>
+<P>Was a good day - the bride looked beautiful, and he scrubbed up okay <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif">.</P>
+<P>I know I said it on the day, but congratulations, guys! </P>
+<P>By the way, if you want to keep track of what they're up to, check out
+    <A href="http://bickerton.blogspot.com/">their blog</A>&nbsp;(yep, Biscuits geek side has rubbed off!).</P>
+<P>Oh, and also, these were all taken by Rob, albeit on my camera. Thanks Rob!</P>

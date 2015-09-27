@@ -1,0 +1,16 @@
+---
+layout: post
+title: " Possibilities... "
+date: 2006-08-15 23:24:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/08/16/1418.aspx"]
+---
+<!-- more -->
+
+<P>Been looking into some asp.net and atlas stuff recently, and I've really enjoyed it. Even was playing with some virtual earth mapping stuff the other day, which was very cool. It was so easy, but still so powerful. Its takes away so much that you have to do manually, and lets you focus on actually getting things done, rather than fighting with plumbing all the time.</P>
+ <P>Its kinda got me back into coding in my own time again - its been a long time since I've wanted to do that. Watching the demos and screencasts, the possibilities that it allows is amazing. Really gets you motivated and excited about coding again - a feeling that I've been missing for ages. </P>
+ <P>Compare that to what I have to do at work. Some of the things that I can do in asp.net in half an hour would take weeks in asp, and then it would be nowhere near as maintainable, or secure.</P>
+ <P>Given the distinct lack of progress on, well, anything that would actually improve morale at work... Well, hopefully my holiday gives me some motivation (either that, or my boss has an epiphany)...</P>

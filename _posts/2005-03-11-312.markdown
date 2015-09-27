@@ -1,0 +1,15 @@
+---
+layout: post
+title: " How come nobody reads my blog? "
+date: 2005-03-11 11:03:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/03/11/312.aspx"]
+---
+<!-- more -->
+
+<P>Ran across this while reading <A href="http://radio.weblogs.com/0001011/2005/03/07.html#a9560">Scoble's blog</A> yesterday, and thought it was kind of appropriate...</P>
+ <P><IMG src="http://www.gapingvoid.com/Moveable_Type/archives/zzzzzz7654197.jpg" P <> 
+ <P>If you like it, go check out the <Ahref="http://www.gapingvoid.com/">Gaping Void</A>&nbsp;blog - very cool (warning though - can be a little rude sometimes...).</P>

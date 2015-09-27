@@ -1,0 +1,17 @@
+---
+layout: post
+title: " The geek dinner... "
+date: 2005-06-13 06:20:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/06/13/582.aspx"]
+---
+<!-- more -->
+
+<P>Went along to the <A href="http://www.perfectpath.co.uk/wiki/index.php/London_Geek_Dinner_June_7th_2005">geek dinner</A> the other night, a little worried at how bad it was going to be (who wouldn't be scared at the thought of going to a place where 200 people are voluntarily going to something called a &#8220;geek dinner&#8221;...)</P>
+ <P>But, once I got there, it wasn't too bad at all. There were a few scary people there, pocket protectors and all, but all in all, it was remarkably tame. It ended up being more like a random occasion to meet up with random people and talk about random stuff, while eating good food and drinking. </P>
+ <P>So, managed to meet a few random people - made a few contacts - and ended up pretty much convincing this american college student to start his own business... Didn't get a chance to talk to <A href="http://scoble.weblogs.com/">Scoble</A>&nbsp;(his <Ahref="http://radio.weblogs.com/0001011/2005/06/08.html#a10335">post</A>), but had a few brief words with <A href="http://www.gapingvoid.com/">Hugh</A> (who's going to send me a <A href="http://www.gapingvoid.com/Moveable_Type/archives/001646.html">nice bottle of wine</A> <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>). Also managed to talk to the guy behind some <A href="http://backstage.bbc.co.uk/">fancy stuff at the BBC - aka backstage</A>, and some guys that invited us along to a <A href="http://www.abbeyfest.co.uk/frames_noflash.htm">jazz festival</A> coming up soon. All in all, not too bad.</P>
+ <P>Here's some <A href="http://www.itwriting.com/blog/?postid=164">random guys post</A>&nbsp;about the night (including a nice pr&#233;cis about how Scoble expects to get sued), and here's a <A href="http://www.flickr.com/groups/londongeekdinner0607/pool/">whole bunch of photos</A> that random people took (and had uploaded within about 2 minutes of the night being over). Also a photo of&nbsp;<A href="http://biscuit-rant.blogspot.com">Andrew</A> and me <A href="http://www.flickr.com/photos/richardbyrom/18099812/">looking suave</A>.</P>
+ <P>Forgot to grab myself one of the <A href="http://www.flickr.com/photos/cybaea/18078244/in/pool-londongeekdinner0607/">many</A> <A href="http://channel9.msdn.com/">Channel 9</A> <A href="http://www.flickr.com/photos/cybaea/18078646/in/pool-londongeekdinner0607/">toys</A> though... <IMG alt=:( class="emoticon" src="/images/emotions/emotion-6.gif" border=0></P>

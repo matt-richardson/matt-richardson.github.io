@@ -1,0 +1,17 @@
+---
+layout: post
+title: " On software: XP find not working too well? "
+date: 2005-03-11 10:56:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2005/03/11/311.aspx"]
+---
+<!-- more -->
+
+<P>For ages, I've been&nbsp;getting extremely frustrated about XP's find functionality, especially with the&nbsp;'find text in files' functions.</P>
+ <P>For some odd reason, it never seemed to find text that I <STRONG>knew</STRONG> was in the files that&nbsp;I was searching amongst.&nbsp;Maybe me seriously annoyed - enough to contemplate going looking for another app to do this (but, being lazy, never actually got there).</P>
+ <P>Today, I just happened to run across a site that mentioned that <A href="https://exchange.redgumtech.com.au/exchweb/bin/redir.asp?URL=http://support.fogcreek.com/default.asp?fogbugz.4.1893">XP doesn't search in files that have unrecognized file extensions</A>. This led me to a little <A href="http://www.sellsbrothers.com/tools/#Filter_Files_With_Unknown_Extensions_For_XP">reg file that will fix this issue</A>, and allow the searching across unknown file types, by the inestimable <A href="http://www.sellsbrothers.com/">Chris Sells</A>.</P>
+ <P>The other thing I've found the other day is that <A href="http://desktop.google.com/">Google Desktop Search</A> now has support for <A href="http://desktop.google.com/plugins.html">plug-ins</A>, one of which <A href="http://www.trivex.net/">allows searching of lots more plain text file types</A>. So, now, I've reinstalled it, having uninstalled it for this very reason. Now, I'm a much happier puppy... <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0></P>
+ <P>&lt;sorry folks - nerd talk over now <IMG alt=":)" class="emoticon" src="/images/emotions/emotion-1.gif" border=0>&gt;</P>

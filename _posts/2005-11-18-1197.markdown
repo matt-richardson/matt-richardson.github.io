@@ -1,0 +1,19 @@
+---
+layout: post
+title: " The latest linux install... "
+date: 2005-11-18 15:01:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2005/11/18/1197.aspx"]
+---
+<!-- more -->
+
+<P>
+  Forget installing&nbsp;linux onto watches, psp's, xboxes and the like...
+</P>
+ <P>
+  <A href="http://www.strangehorizons.com/index.pl?Contents=/2004/20040405/badger.shtml">Installing Linux on a Dead Badger: User's Notes</A>
+</P>
+ <P>(have a quick look, even if you're not a nerd...)</P>

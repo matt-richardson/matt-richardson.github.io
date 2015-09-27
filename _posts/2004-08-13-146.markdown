@@ -1,0 +1,22 @@
+---
+layout: post
+title: " Greetings... "
+date: 2004-08-13 13:41:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/archive/2004/08/13/146.aspx"]
+---
+<!-- more -->
+
+<P><FONT face=Arial>This is that&nbsp;always dodgy first post, where people feel they have to have something there, but dont actually have anything to put there yet... So, this isn't going to be that deep...</FONT></P>
+ <P><FONT face=Arial>Anyway, this blog is going to be a replacement for those group emails that some people like, and some people absolutely loath. (I belong firmly in the latter category). So, I'll put my ramblings here, and if people are interested in reading them - well, they can come here and read them.</FONT></P>
+ <P><FONT face=Arial>For those that aren't quite technically minded, and haven't done the blog reading thing before, you have a few options as to how to read a blog:</FONT></P>
+ <UL>
+ <LI><FONT face=Arial>come visit the site regularly, and see if theres anything new to read</FONT></LI>
+ <LI><FONT face=Arial>download a feed reader (aka news aggregator), and let it check automatically for new stuff</FONT></LI>
+ <UL>
+ <LI><FONT face=Arial>if you want to give this a go, i'd suggest <A href="http://www.awasu.com/">awasu</A>&nbsp;as a really cool standalone program</FONT></LI>
+ <LI><FONT face=Arial>if you use outlook, check out <A href="http://www.newsgator.com/">newsgator</A>&nbsp;as a really cool outlook addin (news items appear as emails).</FONT></LI></UL></UL>
+ <P><FONT face=Arial>Anyway, thats enough babbling for now - all i've got to do is send out an email saying that its here! Yay!.</FONT></P>

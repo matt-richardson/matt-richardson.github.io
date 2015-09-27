@@ -1,0 +1,15 @@
+---
+layout: post
+title: " A slight update... "
+date: 2006-04-10 08:59:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/04/10/1303.aspx"]
+---
+<!-- more -->
+
+<P>Just spent a bit of time updating <A href="http://www.oneroundpebble.com">www.oneroundpebble.com</A>&nbsp;today. Now the navigation bar on the left should be a lot quicker to load, as it now dynamically loads the child nodes. Hopefully it also works on more people's computers.</P>
+ <P>Had to fight a bit with various asp.net 2.0 configuration bits to get it all working properly, and various other fun stuff, but it all seems to work now.</P>
+ <P>If anythings broken, let me know!&nbsp;<BR></P>

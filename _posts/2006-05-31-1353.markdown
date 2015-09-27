@@ -1,0 +1,16 @@
+---
+layout: post
+title: " New funkyness... "
+date: 2006-05-31 20:21:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software"]
+alias: ["/mattsblog/archive/2006/05/31/1353.aspx"]
+---
+<!-- more -->
+
+<P>Okay. Just finished a site update to the esoteric <A href="http://www.oneroundpebble.com/">oneroundpebble</A>, so its now hip, happening, and with it, for the 21st century. Or something. </P>
+ <P>But, anyhow, hope you like the new colour scheme, and if you dont, well, there's not a lot you can do about it. Deal with it. </P>
+ <P>The other thing thats new is the new 'subscribe by email' section over on the right hand side. So, for those of you that haven't quite figured out how the whole rss thing works, you can slot your email address into that little text box there, and click the subscribe link, and then you'll never have to fear missing any of my fevered rantings again. </P>
+ <P>(then again, you might want to consider checking out <A href="http://www.newsgator.com/">NewsGator</A> for a funky online newsreader, or <A href="http://www.intravnews.com/">intravnews</A> for a free outlook plugin that'll do this for you, and do it with bells on.)</P>

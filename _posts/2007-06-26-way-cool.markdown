@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Way cool... "
+date: 2007-06-26 01:11:01 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Cool Stuff", "On Software"]
+alias: ["/mattsblog/archive/2007/06/25/way-cool.aspx"]
+---
+<!-- more -->
+
+<p>Go check out <a href="http://labs.live.com/photosynth/videodemo.html">Photosynth</a> that Microsoft Live Labs has put together... Very cool.</p>

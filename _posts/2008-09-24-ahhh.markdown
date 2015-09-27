@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Ahhh… "
+date: 2008-09-24 02:34:31 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["/mattsblog/archive/2008/09/23/ahhh.aspx"]
+---
+<!-- more -->
+
+<p></p> <p></p> <p><a title="XKCD - 'Tones' comic" href="http://xkcd.com/479/">XKCD</a>… I love it…</p> <p>(Phones should go ‘ring’, damnit!)</p>

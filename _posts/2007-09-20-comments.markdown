@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Comments... "
+date: 2007-09-20 06:32:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities", "Personal"]
+alias: ["/mattsblog/archive/2007/09/19/comments.aspx"]
+---
+<!-- more -->
+
+<p>I'd pretty much resigned myself to the fact that no-one actually reads my blog anymore, when I did a quick check and realised that I hadn't actually enabled comments... So, kinda makes it hard to comment.</p><p>So, enabled. Hopefully, it doesn't kick off a deluge of spam...</p><p>Feel free to go back and add your comments now <IMG alt=":D" class="emoticon" src="/images/emotions/emotion-2.gif"></p> 

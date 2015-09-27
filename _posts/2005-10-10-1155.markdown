@@ -1,0 +1,14 @@
+---
+layout: post
+title: " How could this happen??? "
+date: 2005-10-10 10:49:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2005/10/10/1155.aspx"]
+---
+<!-- more -->
+
+<P>I love the <A href="http://www.frozenreality.co.uk/comic/bunny/">Bunny comics</A>, and this one especially, entitled "<A href="http://www.frozenreality.co.uk/comic/bunny/index.php?id=394">no more teabags</A>":</P>
+ <P><IMG src="http://www.bunny-comic.com/strips/061005.gif"></P>

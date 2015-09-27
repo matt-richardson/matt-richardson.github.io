@@ -1,0 +1,68 @@
+---
+layout: post
+title: " Brainbench tests... "
+date: 2006-10-24 12:03:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Software", "On Generalities"]
+alias: ["/mattsblog/archive/2006/10/24/1480.aspx"]
+---
+<!-- more -->
+
+<P>Just did yet another <A href="http://brainbench.com/">Brainbench</A> test the other day, as part of the hunt for a contract job...</P>
+ <P>Thought it might be interesting to share the results I've had over the time:</P>
+ <P>
+ <BLOCKQUOTE>
+ <TABLE>
+ <TBODY>
+ <TR><TH style="PADDING-RIGHT: 15px; TEXT-ALIGN: left"><FONT size=2>Date</FONT></TH>
+ <TH style="PADDING-RIGHT: 15px; TEXT-ALIGN: left"><FONT size=2>Subject</FONT></TH>
+ <TH><FONT size=2>Score<SUP>[1]</SUP></FONT></TH>
+ <TH><FONT size=2>Percent <SUP>[2]</SUP></FONT></TH></TR>
+ <TR>
+ <TD style="PADDING-RIGHT: 15px"><FONT size=2>13/12/2004</FONT></TD>
+ <TD style="PADDING-RIGHT: 15px"><FONT size=2>VB.NET </FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>4.31</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>98%</FONT></TD></TR>
+ <TR>
+ <TD colSpan=4><FONT size=2></FONT></TD></TR>
+ <TR><TD><FONT size=2>09/02/2005</FONT></TD>
+ <TD style="PADDING-RIGHT: 15px"><FONT size=2>MS SQL Server 2000</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>3.87</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>91%</FONT></TD></TR>
+ <TR>
+ <TD><FONT size=2>09/02/2005</FONT></TD>
+ <TD><FONT size=2>ASP 3.0</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>4.60</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>98%</FONT></TD></TR>
+ <TR>
+ <TD><FONT size=2>09/02/2005</FONT></TD>
+ <TD><FONT size=2>Visual Basic 6.0</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>4.34</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>99%</FONT></TD></TR>
+ <TR>
+ <TD><FONT size=2>09/02/2005</FONT></TD>
+ <TD><FONT size=2>XSL</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>3.12</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>77%<SUP>[3]</SUP></FONT></TD></TR>
+ <TR>
+ <TD colSpan=4><FONT size=2></FONT></TD></TR>
+ <TR>
+ <TD><FONT size=2>22/10/2006</FONT></TD>
+ <TD><FONT size=2>ASP.NET (Express)</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>3.25</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>56%<SUP>[4]</SUP></FONT></TD></TR>
+ <TR>
+ <TD><FONT size=2>22/10/2006</FONT></TD>
+ <TD><FONT size=2>C# (Express)</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>3.62</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>83%</FONT></TD></TR>
+ <TR>
+ <TD><FONT size=2>22/10/2006</FONT></TD>
+ <TD><FONT size=2>MS SQL Server 2000</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>3.95</FONT></TD>
+ <TD style="TEXT-ALIGN: center"><FONT size=2>97%</FONT></TD></TR></TBODY></TABLE></BLOCKQUOTE>
+ <P></P>
+ <P>Maybe I do know what I'm talking about....&nbsp;Just need to brush up on the ASP.NET - thats the one thats letting the team down now...
+ <P><FONT size=2><SUP>[1]</SUP> Score is out of 5. Not a strickly linear score though.<BR><SUP>[2]</SUP> Percent actually means 'better than x percent of respondants'<BR><SUP>[3]</SUP> I'd say about about a gazillion times better on the XSL now - 18 months practice...<BR><SUP>[4]</SUP> Really thought I'd do better on the ASP.NET test, and worse on the C#.</FONT></P>

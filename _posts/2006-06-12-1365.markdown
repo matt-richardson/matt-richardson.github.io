@@ -1,0 +1,12 @@
+---
+layout: post
+title: " I hate... "
+date: 2006-06-12 03:38:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2006/06/12/1365.aspx"]
+---
+<!-- more -->
+ Indian call-centres. Gah! 

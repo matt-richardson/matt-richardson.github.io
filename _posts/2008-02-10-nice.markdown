@@ -1,0 +1,13 @@
+---
+layout: post
+title: " Nice... "
+date: 2008-02-10 05:57:00 +0000
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: ["On Generalities"]
+alias: ["/mattsblog/archive/2008/02/09/nice.aspx"]
+---
+<!-- more -->
+
+Slightly off-topic (but then again, dont actually have a topic, so how can it be off it?), but I quite like the words of <a href="http://www.musicanet.org/robokopp/usa/granclok.htm" title="&quot;Grandfather's Clock&quot; by Henry Clay Work" mce_href="http://www.musicanet.org/robokopp/usa/granclok.htm">Grandfather's Clock</a> by Henry Clay Work.
