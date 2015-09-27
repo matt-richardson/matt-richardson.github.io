@@ -1,0 +1,23 @@
+---
+layout: default
+tag: On Generalities
+title: Posts Tagged &ldquo;On Generalities&rdquo;
+---
+<div class="home" id="home">
+    <h1 class="page-title">{{page.title}}</h1>
+    <ul class="posts no-list">
+	  	{% for post in site.posts %}
+	  		{% for tag in post.tags %}
+	  			{% if tag == page.tag %}
+		            <li>
+		                <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+		                <h3>
+		                	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		                </h3>
+		                <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
+		            </li>
+	  			{% endif %}
+	  		{% endfor %}
+  		{% endfor %}
+    </ul>
+</div>
