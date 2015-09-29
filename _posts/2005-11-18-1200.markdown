@@ -10,7 +10,7 @@ alias: ["/mattsblog/archive/2005/11/18/1200.aspx"]
 ---
 <!-- more -->
 
-<P>This article, written in 1945, forsaw issues finding information, when you've got too much information stored, and a way to solve it.</P>
+<P>This article, written in 1945, foresaw issues finding information, when you've got too much information stored, and a way to solve it.</P>
  <P>
  <P><A title=http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm href="http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm">http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm</A></P>
  <P>

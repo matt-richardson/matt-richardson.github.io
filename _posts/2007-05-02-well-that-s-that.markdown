@@ -10,7 +10,7 @@ alias: ["/mattsblog/archive/2007/05/02/well-that-s-that.aspx"]
 ---
 <!-- more -->
 
-<p>Finished up at <a href="http://www.ubs.com" mce_href="http://www.ubs.com">UBS</a> last week, after a four month stint there. Was quite a good place to work, though getting to know the team was hard work though. 'Bout half the work was interesting and enjoyable, but the other halfranged from passable to downright mind-numbingly boring. </p>
+<p>Finished up at <a href="http://www.ubs.com" mce_href="http://www.ubs.com">UBS</a> last week, after a four month stint there. Was quite a good place to work, though getting to know the team was hard work though. 'Bout half the work was interesting and enjoyable, but the other half ranged from passable to downright mind-numbingly boring. </p>
  <p>But, the project I was on finished up (well, the budget did at least), so that was me out of there. There was talk of getting an extension (one department (in Sydney!) really liked me and how much i was helping them out, so they were trying to see if they could 'sponsor' me to continue working on their stuff), but it would've been more of the boring stuff, rather than the interesting stuff, so I politely declined... </p>
  <p>Learnt some good stuff there, but the important bit was getting my foot in the door of an investment bank- once in, it opens a whole lot more doors for more contracts, so looking good. And, really, the money wasn't bad either :)</p>
  <p>But, I'm still working for the consulting company that&nbsp;I worked through - up until Thursday at least. Doing some pretty boring stuff that's really not motivating me. But, hey, they're paying me for it... :)</p>
