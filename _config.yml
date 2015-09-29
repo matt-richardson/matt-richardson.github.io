@@ -29,9 +29,7 @@ social:
 google_analytics: 
 
 exclude : [
-	'BlogML.xml', 'blogml.rb', 'node_modules', 'todo.md', 'convert-comments.rb',
-	'config.rb', 'disqus-comments.xml', 'Gruntfile.js', 'package.json', 'README.md',
-	're-convert.sh', 'LICENSE', 'assets/scss'
+	'todo.md', 'README.md', 'LICENSE'
 	]
 
 asset_bundler:
