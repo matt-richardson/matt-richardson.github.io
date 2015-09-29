@@ -31,12 +31,3 @@ google_analytics:
 exclude : [
 	'todo.md', 'README.md', 'LICENSE'
 	]
-
-asset_bundler:
-  compress:
-    js: yui
-    css: yui
-  base_path: /assets/bundles/
-  remove_bundled: true
-  dev: false
-
