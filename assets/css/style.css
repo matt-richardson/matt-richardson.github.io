@@ -1202,7 +1202,6 @@ dd {
     }
 
     .post h1,.post h2,.post h3,.post h4,.post h5,.post h6,.post p,.post ul,.post ol,.post dl,.post .pageTitle, .post #disqus_thread, .post blockquote {
-        width: 74.46809%;
         float: left;
         margin-right: 2.12766%;
         float: none;
