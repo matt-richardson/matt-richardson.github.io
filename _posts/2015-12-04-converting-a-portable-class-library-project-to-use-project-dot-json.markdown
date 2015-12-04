@@ -14,7 +14,7 @@ To help drive best practice, we've been pushing towards fixing these warnings, a
 
 After investigating, I found that MSBuild was getting confused as one of the dependencies ([stateless](https://github.com/nblumhardt/stateless)) was a PCL library, and therefore referencing `System.Core, Version=2.0.5.0`, whereas the rest of the code was referencing `System.Core, Version=4.0.0.0`. Now, version 2.0.5.0 of the reference assemblies is an interesting one, as its not a real assembly - its just there for the compiler to use, and uses type forwarding to pass it onto the correct assembly.
 
-This all compiles and runs successfully, but it still shows that pesky error during compilation. So, being a good open source citizen, I logged [an issue](https://github.com/nblumhardt/stateless/issues/37), and hoped for the best. But as this is the real world, the maintaner was a bit too busy to take a look and suggested I send a pull request, with an added suggestion that it would be cool to use the new `project.json` format that ASP.NET 5/Visual Studio 2015 introduced. And as such things are want to be, it took a tad more effort than expected.
+This all compiles and runs successfully, but it still shows that pesky error during compilation. So, being a good open source citizen, I logged [an issue](https://github.com/nblumhardt/stateless/issues/37), and hoped for the best. But as this is the real world, the maintaner was a bit too busy to take a look and suggested I send a pull request, and added the suggestion that it would be worth using the new `project.json` format that ASP.NET 5 / Visual Studio 2015 introduced. And as such things are want to be, it took a tad more effort than expected.
 
 <!-- more -->
 
