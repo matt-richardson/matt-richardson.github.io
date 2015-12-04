@@ -448,6 +448,10 @@ th:last-child {
     color: #C1C2C3
 }
 
+.highlight code {
+    background-color: rgba(193, 194, 195, 0);
+}
+
 .highlight .hll {
     background-color: #ffc
 }
