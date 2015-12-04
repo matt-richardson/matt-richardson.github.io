@@ -49,6 +49,7 @@ Some needed to be strong named (which meant I needed to upgrade from beta5 to RC
 ``` 
 
 Even the main dll was relatively simple, at least for the .net 4.0 (and 3.5) ones:
+
 ```
 {
   "title": "Stateless",
