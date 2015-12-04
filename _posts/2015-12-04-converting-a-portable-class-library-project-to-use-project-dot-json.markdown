@@ -100,7 +100,7 @@ This all built and created the `.nupkg` file as expected. The real challenge was
 
 ![.net 4.0 PCL ends up targeting .net v4.6?](/assets/img/portable-class-libraries-in-aspnet5-incorrect-framework.png)
 
-After banging my head against the wall many times, I eventually stumbled across a reference that mentioned you now need to use the `TargetFramework` assembly attribute to specify this, eg:
+After banging my head against the wall many times, I eventually stumbled across [a reference](http://stackoverflow.com/a/16254204/779192) that mentioned you now need to use the `TargetFramework` assembly attribute to specify this, eg:
 
 ```
 #if PORTABLE
@@ -108,7 +108,7 @@ After banging my head against the wall many times, I eventually stumbled across 
 #endif
 ```
   
-and now it compiles against the correct framework:
+and now it magically compiles against the correct framework:
 
 ![targeting correct framework](/assets/img/portable-class-libraries-in-aspnet5-correct-framework.png)
 
