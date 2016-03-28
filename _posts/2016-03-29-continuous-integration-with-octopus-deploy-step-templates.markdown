@@ -10,7 +10,7 @@ tags: ["On Software"]
 
 [Octopus Deploy](http://octopus.com) is a great tool in the .net space for deploying applications and managing the lifecycle of the deployments across different environments.
 
-One of the really nice features is the exensibility around step templates (the basic building block of a deployment process) - enabling you to write ([and share](https://library.octopusdeploy.com/)) your own steps in PowerShell, C# or Bash.
+One of the really nice features is the extensibility around step templates (the basic building block of a deployment process) - enabling you to write ([and share](https://library.octopusdeploy.com/)) your own steps in PowerShell, C# or Bash.
 
 It appears that the common approach of writing, testing and deploying step templates is missing some of the good practices that came from the hard lessons learned around testing and [Continuous Integration](http://www.martinfowler.com/articles/continuousIntegration.html) (CI). Step templates are written locally, tested manually, and then copied and pasted into Octopus Deploy. Updates involves editing in the Octopus Deploy UI or copying and pasting back to a local script. To publish them to the community site, these templates are exported into a git repo and a Pull Request raised against the main [library repo](https://github.com/octopusdeploy/library). All up, quite a few manual steps in there.
 
