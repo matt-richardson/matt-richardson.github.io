@@ -50,7 +50,7 @@ finally{
 }
 ```
 
-Now, this script, while perfectly functional, and easy to test in isolation (ie, in Powershell ISE), doesn't really confirm to the ideals of a CI pipeline. If we do a small refactor, and move the code into a function, we can make it easily testable:
+Now, this script, while perfectly functional, and easy to test in isolation (ie, in Powershell ISE), doesn't really conform to the ideals of a CI pipeline. If we do a small refactor, and move the code into a function, we can make it easily testable:
 
 ```powershell
 #sql-test-connection-string.steptemplate.ps1
