@@ -166,7 +166,7 @@ To summarise the process:
    
 ## Powershell modules
 
-This began life as a plain old `build.ps1` file, that while it worked, it was growing unwieldy. With a stellar contribution from one of the Asos team, Paul Marston, this was converted into a proper powershell module that can be used both during step template development and for an automated build process. Hopefully, we should be able to publish this onto the [powershell gallery](https://powershellgallery.com) soon.
+This began life as a plain old `build.ps1` file, that while it worked, it was growing unwieldy. With a stellar contribution from one of the Asos team, [Paul Marston](https://github.com/paulmarsy), this was converted into a proper powershell module that can be used both during step template development and for an automated build process. Hopefully, we should be able to publish this onto the [powershell gallery](https://powershellgallery.com) soon.
 
 ## Automatic test run & publish
 
