@@ -20,7 +20,7 @@ While working with [ASOS](https://asos.com) (a major UK fashion site) on an Octo
 
 ## Source Control
 
-First off, we need to store the step templates into a source code repo. We've gone for a `*.StepTemplate.ps1` / `*.ScriptModule.ps1` filename format (always a fan of being explicit), and we have a `*.StepTemplate.Tests.ps1` / `*.ScriptModule.Tests.ps1` file that contains our [Pester](https://github.com/Pester/Pester) tests.
+First off, we need to store the step templates into a source code repo. We've gone for a `*.StepTemplate.ps1` filename format (always a fan of being explicit), and we have a `*.StepTemplate.Tests.ps1` file that contains our [Pester](https://github.com/Pester/Pester) tests.
 
 Ideally, we would use the same format that Octopus imports and exports, but unfortunately, while it's very friendly for computers, it's not great for humans. So, we've gone for a format that is easy for humans to read and modify, but requires some transformation (you could almost call it compilation?) before it gets imported.
 
@@ -115,9 +115,16 @@ describe "when connecting to a valid database" {
 }
 ## more tests here
 ```
+
+## Script Modules
+
+So far, we have just been talking about Step Templates. Script Modules are another extensibility point in Octopus, that allow us
+to write common library functions. The same principles and automation applies to these. We went for a `*.StepTemplate.ps1` and 
+`*.StepTemplate.Tests.ps1` approach for these files. 
+
 ## Speaking Octopus
 
-Now that we've got some tests running, we now have some level of confidence that our code (or more likely, any future modification to it) is all okay, and we can upload to Octopus. But, obviously, we dont want to do that as a manual, easily forgotten step. So we need to add some ability to convert into the json format that Octopus uses for import/export and upload it.
+Now that we've got some tests running, we now have some level of confidence that our code (or more likely, any future modification to it) is all okay, and we can upload to Octopus. But, following the principle of 'same result every time', we dont want to do that as a manual, easily forgotten step. So we need to add some ability to convert into the json format that Octopus uses for import/export and upload it.
 
 In the json that Octopus expects, there are 4 important parts that change:
 * the script body
@@ -125,7 +132,10 @@ In the json that Octopus expects, there are 4 important parts that change:
 * the description
 * the parameters
 
-If we add these as parameters to the top of the script, we can easily parse them out:
+For script modules, the first three parameters are the same, however they do not have any parameters. 
+There are also differences in the way that the Octopus API treats them, but that is outside the scope of this post.
+
+If we add these as parameters to the top of our Step Template script, eg:
 ```powershell
 $StepTemplateName = 'SQL - Test Connection'
 $StepTemplateDescription = 'Tests a SQL Server connection string by attempting to connect to the database.'
@@ -143,7 +153,7 @@ $StepTemplateParameters =
 # script body goes here
 ```
 
-From here, we can easily generate the json we need to import into Octopus, and even compare this against the current version so that we dont upload a new version that hasn't changed.
+From here, we can extract them out (with a bit of Powershell AST voodoo) and easily generate the json we need to import into Octopus, and even compare this against the current version so that we dont upload a new version that hasn't changed.
 
 ## Automated tests
 
@@ -151,26 +161,29 @@ One of the benefits of having all of this run as a single build is that we can r
 * check all the required metadata parameters are supplied
 * check that all params are used in the script body
 * check that tests exist
+* run static analysis tests using [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)
 * etc
 
-And finally, in our build script, if we are running on the build server, we can upload to Octopus using the api. (It's always a good idea to make sure the script that the build server runs is also runnable locally, as well as on the server, with minimal differences.)
+And finally, in our build script, if we are running on the build server, we can upload to Octopus using the api. (It's always a good idea to make sure the script that the build server runs is also runnable locally, as well as on the server, with as few differences as possible.)
 
 To summarise the process:
   * for each step template / script module
    * run template/module specific pester tests (in -passthru mode, saving the output to an xml file)
    * run generic tests (again, in -passthru mode, saving the output to an xml file)
-   * extract metadata from the template
+   * extract metadata from the template / module
    * create json
    * download the current step template from the server version
    * upload if current version is different to server version
    
 ## Powershell modules
 
-This began life as a plain old `build.ps1` file, that while it worked, it was growing unwieldy. With a stellar contribution from one of the Asos team, [Paul Marston](https://github.com/paulmarsy), this was converted into a proper powershell module that can be used both during step template development and for an automated build process. Hopefully, we should be able to publish this onto the [powershell gallery](https://powershellgallery.com) soon.
+This began life as a plain old `build.ps1` file, that while it worked, it was growing unwieldy. With a stellar contribution from one of the Asos team, [Paul Marston](https://github.com/paulmarsy), this was converted into a proper powershell module that can be used both during local development and for an automated build process. Hopefully, we should be able to publish this onto the [powershell gallery](https://powershellgallery.com) soon.
+
+One of the benefits of doing this as a powershell module was the ease of adding some helper cmdlets for local use. `New-StepTemplate`, `New-ScriptModule` and `New-ScriptValidationTest` cmdlets are available to make it super easy to do local development.
 
 ## Automatic test run & publish
 
-Using [TeamCity](https://jetbrains.com/teamcity) for the build server, we just call our `Invoke-TeamCityCiUpload` cmdlet, and use the [Xml Reporting build feature](https://confluence.jetbrains.com/display/TCD9/XML+Report+Processing) to import the test results.
+Using [TeamCity](https://jetbrains.com/teamcity) for the build server, once we have downloaded and imported the module, we just call `Invoke-TeamCityCiUpload -uploadIfSuccessful`, and use the [Xml Reporting build feature](https://confluence.jetbrains.com/display/TCD9/XML+Report+Processing) to import the test results.
 
 ## No really, show me the code
 
