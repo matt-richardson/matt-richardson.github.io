@@ -172,12 +172,12 @@ And finally, in our build script, if we are running on the build server, we can 
 To summarise the process:
 
  - for each step template / script module
-  - run template/module specific pester tests (in -passthru mode, saving the output to an xml file)
-  - run generic tests (again, in -passthru mode, saving the output to an xml file)
-  - extract metadata from the template / module
-  - create json
-  - download the current step template from the server version
-  - upload if current version is different to server version
+   - run template/module specific pester tests (in -passthru mode, saving the output to an xml file)
+   - run generic tests (again, in -passthru mode, saving the output to an xml file)
+   - extract metadata from the template / module
+   - create json
+   - download the current step template from the server version
+   - upload if current version is different to server version
    
 ## Powershell modules
 
