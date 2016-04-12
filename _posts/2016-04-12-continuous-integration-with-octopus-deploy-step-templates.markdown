@@ -127,6 +127,7 @@ to write common library functions. The same principles and automation applies to
 Now that we've got some tests running, we now have some level of confidence that our code (or more likely, any future modification to it) is all okay, and we can upload to Octopus. But, following the principle of 'same result every time', we dont want to do that as a manual, easily forgotten step. So we need to add some ability to convert into the json format that Octopus uses for import/export and upload it.
 
 In the json that Octopus expects, there are 4 important parts that change:
+
  - the script body
  - the name
  - the description
@@ -159,6 +160,7 @@ From here, we can extract them out (with a bit of Powershell AST voodoo) and eas
 ## Automated tests
 
 One of the benefits of having all of this run as a single build is that we can run some automated tests against the step template for common issues, and to ensure they conform to our expectations, eg:
+
  - check all the required metadata parameters are supplied
  - check that all params are used in the script body
  - check that tests exist
@@ -168,6 +170,7 @@ One of the benefits of having all of this run as a single build is that we can r
 And finally, in our build script, if we are running on the build server, we can upload to Octopus using the api. (It's always a good idea to make sure the script that the build server runs is also runnable locally, as well as on the server, with as few differences as possible.)
 
 To summarise the process:
+
  - for each step template / script module
   - run template/module specific pester tests (in -passthru mode, saving the output to an xml file)
   - run generic tests (again, in -passthru mode, saving the output to an xml file)
