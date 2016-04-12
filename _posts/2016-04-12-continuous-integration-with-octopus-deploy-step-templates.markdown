@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Continuous Integration with Octopus Deploy Step Templates"
-date: 2016-03-29 07:45:00 +0100
+date: 2016-04-12 12:34:00 +0100
 comments: true
-published: false
+published: true
 categories: ["blog", "archives"]
 tags: ["On Software"]
 ---
