@@ -136,6 +136,7 @@ For script modules, the first three parameters are the same, however they do not
 There are also differences in the way that the Octopus API treats them, but that is outside the scope of this post.
 
 If we add these as parameters to the top of our Step Template script, eg:
+
 ```powershell
 $StepTemplateName = 'SQL - Test Connection'
 $StepTemplateDescription = 'Tests a SQL Server connection string by attempting to connect to the database.'
