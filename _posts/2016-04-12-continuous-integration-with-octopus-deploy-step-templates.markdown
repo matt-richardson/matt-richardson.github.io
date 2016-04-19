@@ -119,8 +119,8 @@ describe "when connecting to a valid database" {
 ## Script Modules
 
 So far, we have just been talking about Step Templates. Script Modules are another extensibility point in Octopus, that allow us
-to write common library functions. The same principles and automation applies to these. We went for a `*.StepTemplate.ps1` and 
-`*.StepTemplate.Tests.ps1` approach for these files. 
+to write common library functions. The same principles and automation applies to these. We went for a `*.ScriptModule.ps1` and 
+`*.ScriptModule.Tests.ps1` convention for these files. 
 
 ## Speaking Octopus
 
