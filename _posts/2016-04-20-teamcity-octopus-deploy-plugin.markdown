@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "New TeamCity Octopus Deploy Build Trigger Plugin"
-date: 2016-04-07 07:45:00 +0100
+date: 2016-04-20 07:47:34 +0100
 comments: true
-published: false
+published: true
 categories: ["blog", "archives"]
 tags: ["On Software"]
 ---
@@ -22,9 +22,9 @@ This came out of some work I'm doing for a major UK fashion retailer in setting 
 
 One of the tenants of the approach we used was that TeamCity was the orchestrator for everything. This has quite a few benefits, especially around using the TeamCity test runner and reporting capabilities for running tests against a deployed environment. Unfortunately, it also means that you need to duplicate all of your lifecycle, with a build configuration per environment for each project.
 
-Out of this issue, this plugin was born. It allows you to setup a single build that watches a specific Octopus Deploy project, and runs tests against the environment targeted when the project is deployed. TeamCity parameters are used to pass information about the environment, project and deployment triggered.
+Out of this pain point, this plugin was born. It allows you to setup a single build that watches a specific Octopus Deploy project, and runs tests against the environment targeted when the project is deployed. TeamCity parameters are used to pass information about the environment, project and deployment triggered.
 
-From here it was comparatively simple to extend it for the other trigger types. The ability to trigger when a release is created enables scenarios such as sending a notification to tell a team the release is available.
+From here it was comparatively simple to extend it for the other trigger types. The ability to trigger when a release is created enables scenarios such as sending a notification to tell a team the release is available to be deployed.
 
 Triggering when a new tentacle is added allows actions such as triggering a deployment of a given project (or projects) when a tentacle appears, such as in an auto-scaling environment.
 
