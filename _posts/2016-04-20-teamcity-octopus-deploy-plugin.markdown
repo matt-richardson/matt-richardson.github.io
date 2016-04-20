@@ -14,6 +14,7 @@ you to setup build triggers for certain events in [Octopus Deploy](http://octopu
 As of today, I'm declaring it ready for public use. :D
 
 It allows you to trigger builds when:
+
  - a deployment to an environment is complete (optionally only triggering on successful deployments)
  - a new release is created
  - a new tentacle is added to the server
